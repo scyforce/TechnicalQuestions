@@ -1,0 +1,26 @@
+DEPEND TELNET TCPIP NETCARD
+DEPEND TCPIP DNS
+DEPEND DNS NETCARD
+DEPEND  BROWSER   TCPIP  HTML
+INSTALL TELNET
+INSTALL foo
+REMOVE NETCARD
+INSTALL BROWSER
+INSTALL DNS
+LIST
+REMOVE TELNET
+REMOVE NETCARD
+REMOVE DNS
+REMOVE NETCARD
+INSTALL NETCARD
+REMOVE TCPIP
+REMOVE BROWSER
+REMOVE TCPIP
+LIST
+END
+
+1. implicit install and remove
+1. circular dependencies
+2. software should only be installed once
+3. if a software is still needed, do not remove it
+4. if a software do not have any dependent softwares, remove it

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/checkboxtree.css"/>
+  <title>Checkbox Tree</title>
+</head>
+<body>
+	<div class="container"></div>
+	<script src="js/lib.min.js" type="text/javascript"></script>
+	<script src="js/checkboxtree.js" type="text/javascript"></script>
+	<script type="text/template" id="checkboxtree-template">
+      <% _.each(data, function(parent, parentIndex) { %>
+	  <ul class="nav nav-list">
+            <li>
+                <%if (parentOpenMap[parent.name]) {%>
+					<div class="tree-toggler arrow-down"></div>				
+                <% } else {%>
+ 					<div class="tree-toggler arrow-right"></div>
+                <% } %>			
+				<div class="checkbox">
+				<label>
+          			<input data-parentindex="<%=parentIndex%>" class="checkbox parent<%=parentIndex%>" type="checkbox" <% if(parent.selected!==undefined && parent.selected) {%> checked <%}%>/><%=parent.name%>
+        		</label>	
+                </div>	
+				<% if (parent.children) { 
+					  if (parentOpenMap[parent.name]) { %>
+			       		<ul class="nav nav-list tree">
+                	<% } else { %>
+						<ul class="nav nav-list tree" style="overflow: hidden; display: none;">								
+                	<% }
+					_.each(parent.children, function(child, childIndex) { %>
+					<li>
+						<div class="checkbox">
+						<label>
+							<input data-parentindex="<%=parentIndex%>" data-childindex="<%=childIndex%>" class="checkbox" type="checkbox" <% if(child.selected!==undefined && child.selected) {%> checked <%}%>/> <%=child.name%>
+						</label>
+						</div>
+                    </li>
+                <%});%>
+                   </ul>
+                <%}%>
+			</li>
+      </ul>
+      <% }); %>
+  </script>
+</body>
+</html>
