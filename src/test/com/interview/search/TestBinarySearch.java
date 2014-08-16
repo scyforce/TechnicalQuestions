@@ -2,9 +2,9 @@ package test.com.interview.search;
 
 import org.junit.Test;
 
-import com.interview.datastructure.search.BinarySearch;
+import com.interview.algorithm.search.BinarySearch;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 
 public class TestBinarySearch {
 	@Test

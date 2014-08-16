@@ -1,10 +1,10 @@
-package com.interview.evernote.interview;
+package com.interview.company.evernote;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.interview.datastructure.linkedlist.Node;
-import com.interview.datastructure.util.LinkedListUtils;
+import com.interview.algorithm.linkedlist.Node;
+import com.interview.algorithm.util.LinkedListUtils;
 
 public class InterviewQuestions {
 	
@@ -145,18 +145,6 @@ public class InterviewQuestions {
 			}
 		}
 		return results;
-	}
-	
-	public static double getSqureRoot(double a, double e) {
-		double middle = (a+1)/2;
-		
-		while (Math.abs(middle*middle-a)>=e) {
-			double nEstimate = a/middle;
-			middle = (middle+nEstimate)/2;	
-			//a = middle;
-			System.out.println(middle);
-		}
-		return middle;
 	}
 	
 	/**

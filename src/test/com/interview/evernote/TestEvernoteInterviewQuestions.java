@@ -2,13 +2,10 @@ package test.com.interview.evernote;
 
 import java.util.Arrays;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.Test;
 
-import com.interview.datastructure.linkedlist.Node;
-import com.interview.datastructure.util.LinkedListUtils;
-import com.interview.evernote.interview.InterviewQuestions;
+import com.interview.company.evernote.InterviewQuestions;
 
 public class TestEvernoteInterviewQuestions {
 	

@@ -3,13 +3,11 @@ package test.com.interview.array;
 
 import java.util.Arrays;
 
-
-import junit.framework.Assert;
-
+import org.junit.Assert;
 
 import org.junit.Test;
 
-import com.interview.datastructure.array.ArrayCommonQuestions;
+import com.interview.algorithm.array.ArrayCommonQuestions;
 
 public class TestArrayCommonQuestions {
 	@Test
@@ -31,26 +29,6 @@ public class TestArrayCommonQuestions {
 		int num = 3;
 		
 		Assert.assertEquals(Arrays.toString(results), Arrays.toString(ArrayCommonQuestions.slideWindowMinimum(array, num)));
-	}
-	
-	@Test
-	public void testCanJump() {
-		int[] array = {2,3,1,1,4};
-		
-		Assert.assertEquals(2, ArrayCommonQuestions.canJump(array, 0));
-		
-		int[] array1 = {2, 6, 1, 15, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1};
-		
-		Assert.assertEquals(3, ArrayCommonQuestions.canJump(array1, 0));
-	}
-	
-	@Test
-	public void testFindElementInRotatedArray() {
-		int[] array = {4,5,6,7,0,1,2,3};
-		
-		Assert.assertEquals(2, ArrayCommonQuestions.findElementInRotatedArray(array, 6));
-		Assert.assertEquals(5, ArrayCommonQuestions.findElementInRotatedArray(array, 1));
-		Assert.assertEquals(-1, ArrayCommonQuestions.findElementInRotatedArray(array, 10));
 	}
 	
 	@Test

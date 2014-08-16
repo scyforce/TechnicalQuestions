@@ -1,11 +1,9 @@
 package test.com.interview.twitter;
 
-import junit.framework.Assert;
-
-
+import org.junit.Assert;
 import org.junit.Test;
 
-import com.interview.twitter.InterviewQuestions;
+import com.interview.company.twitter.InterviewQuestions;
 
 public class TestInterviewQuestions {
 	

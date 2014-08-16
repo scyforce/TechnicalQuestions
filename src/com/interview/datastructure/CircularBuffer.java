@@ -1,16 +1,16 @@
-package com.interview.evernote.circularbuffer;
+package com.interview.datastructure;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.InputStreamReader;
 
-public class Solution {
+public class CircularBuffer {
 	private String[] buffer;
 	private int currentSize;
 	private int start;
 	
-	public Solution(int size) {
+	public CircularBuffer(int size) {
 		this.buffer = new String[size];
 	}
 	
@@ -33,6 +33,7 @@ public class Solution {
 		}
 	}
 	
+	//start is the oldest element
 	public String remove() {
 		String elem = buffer[start];
 		this.start = (this.start+1)%this.buffer.length;
@@ -41,7 +42,7 @@ public class Solution {
 	}
     
     public void list() {
-        if (!this.isEmpty()) { 
+        if (!isEmpty()) { 
         	int end = (this.start + this.currentSize)%this.buffer.length;
             if (start == end) {
                 System.out.println(buffer[start]);
@@ -79,12 +80,12 @@ public class Solution {
         int lines = 0;
         
         boolean isReadMode = false;
-        Solution solution = null;
+        CircularBuffer solution = null;
         while ((line = reader.readLine())!=null) {
             line = line.trim();
             if (lineNumber == 0) {
                 lines = Integer.parseInt(line);             
-                solution = new Solution(lines);                        
+                solution = new CircularBuffer(lines);                        
             } else {
                 if (isReadMode) {
                    lines--;

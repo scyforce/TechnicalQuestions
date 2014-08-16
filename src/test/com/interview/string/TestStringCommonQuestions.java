@@ -1,19 +1,24 @@
 package test.com.interview.string;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.Test;
 
-import com.interview.datastructure.string.StringCommonQuestions;
+import com.interview.algorithm.string.StringCommonQuestions;
+import com.interview.leetcode.LongestPalindromicSubstring;
+import com.interview.leetcode.LongestSubstringWithoutRepeatingCharacters;
 
 public class TestStringCommonQuestions {
 	@Test
 	public void testFindLongestPalindromString() {
-		String str = "acdaba";
-		Assert.assertEquals(3, StringCommonQuestions.findLongestPalindromString1(str));
+		LongestPalindromicSubstring l = new LongestPalindromicSubstring();
 		
-		String str1 = "acdababa";
-		Assert.assertEquals(5, StringCommonQuestions.findLongestPalindromString1(str1));
+		String str = "acdaba";
+		String sub = "aba";
+		Assert.assertEquals(sub, l.longestPalindrome(str));
+		
+		str = "acdababa";
+		sub = "ababa";
+		Assert.assertEquals(sub, l.longestPalindrome(str));
 	}
 	
 	@Test
@@ -21,15 +26,16 @@ public class TestStringCommonQuestions {
 		String str = "abcabcd";
 		String subStr = "abcd";
 		
-		Assert.assertEquals(subStr, StringCommonQuestions.findLongestNonRepeatedSubString(str));
+		LongestSubstringWithoutRepeatingCharacters l = new LongestSubstringWithoutRepeatingCharacters();
+		Assert.assertEquals(subStr.length(), l.lengthOfLongestSubstring(str));
 		
 		str = "aaaaaa";
 		subStr = "a";
-		Assert.assertEquals(subStr, StringCommonQuestions.findLongestNonRepeatedSubString(str));
+		Assert.assertEquals(subStr.length(), l.lengthOfLongestSubstring(str));
 		
 		str = "stackoverflow";
 		subStr = "stackoverfl";
-		Assert.assertEquals(subStr, StringCommonQuestions.findLongestNonRepeatedSubString(str));
+		Assert.assertEquals(subStr.length(), l.lengthOfLongestSubstring(str));
 		
 	}
 	

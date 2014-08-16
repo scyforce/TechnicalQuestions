@@ -3,7 +3,7 @@ package test.com.interview.math;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.interview.datastructure.math.MathCommonQuetions;
+import com.interview.algorithm.math.MathCommonQuetions;
 
 public class TestMathCommonQuestions {
 	@Test
