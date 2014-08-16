@@ -1,0 +1,359 @@
+*External Sorting
+One example of external sorting is the external merge sort algorithm, which sorts chunks that each fit in RAM, then merges the sorted chunks together.[1][2] For example, for sorting 900 megabytes of data using only 100 megabytes of RAM:
+
+Read 100 MB of the data in main memory and sort by some conventional method, like quicksort.
+Write the sorted data to disk.
+Repeat steps 1 and 2 until all of the data is in sorted 100 MB chunks (there are 900MB / 100MB = 9 chunks), which now need to be merged into one single output file.
+Read the first 10 MB (= 100MB / (9 chunks + 1)) of each sorted chunk into input buffers in main memory and allocate the remaining 10 MB for an output buffer. (In practice, it might provide better performance to make the output buffer larger and the input buffers slightly smaller.)
+Perform a 9-way merge and store the result in the output buffer. Whenever the output buffer fills, write it to the final sorted file and empty it. 
+Whenever any of the 9 input buffers empties, fill it with the next 10 MB of its associated 100 MB sorted chunk until no more data from the chunk is available. 
+This is the key step that makes external merge sort work externally -- because the merge algorithm only makes one pass sequentially through each of the chunks, each chunk does not have to be loaded completely; rather, sequential parts of the chunk can be loaded as needed.
+
+Time Complexity(O(nK2));
+
+*ArrayList
+List li = new ArrayList(5) means the initial capacity is 5, but the size is 0 before you add any elements.
+List li = new ArrayList(subList) means List li = new ArrayList(); li.addAll(subList);
+
+*synchronized
+synchronized on a static method will synchronize the class methods and attributes - if the class has two synchronized methods, both can not be
+executed at the same time.
+synchronized on a instance method means only one thread can execute the method.
+
+*Lock in Java
+http://baptiste-wicht.com/posts/2010/09/java-concurrency-part-5-monitors-locks-and-conditions.html
+
+*Exception VS Throwable
+By catching Throwable it includes things that subclass Error. 
+You should generally not do that, except perhaps at the very highest "catch all" level of a thread where you want to log 
+or otherwise handle absolutely everything that can go wrong. 
+It would be more typical in a framework type application (for example an application server 
+or a testing framework) where it can be running unknown code and should not be affected by anything that goes wrong with that code, as much as possible.
+
+
+*Math.floor and Math.ceil
+floor/ceil take one argument, and round it up or down to the nearest integer.
+
+*Random.nextInt(int) vs Random.nextInt()
+Random.nextInt(int) - Returns a pseudorandom, uniformly distributed int value between 0 (inclusive) and the specified value (exclusive), drawn from this random number generator's sequence.
+Random.nextInt() - Returns the next pseudorandom, uniformly distributed int value from this random number generator's sequence.
+
+*hashcode() and equals()
+for data class, these two methods need to be implemented together,
+Map - if only implements equals, you will not able to retrieve the element.
+The contract between equals() and hasCode() is that:
+1. If two objects are equal, then they must have the same hash code.
+2. If two objects have the same hashcode, they may or may not be equal.
+
+*Hiding fields
+if super class and child class has a variable with the same name, child variable will hide parent variable
+
+*java.util.Map and Java.util.Map.Entry
+Map.Entry is interface of Map
+Because an interface can not be instantiated, the inner interface only makes sense if it is static. 
+Therefore, by default inner interface is static, no matter you manually add static or not.
+
+*Sub, Super constructors
+sub class constructor has to invoke super class instructor, either explicitly by programmer or implicitly by compiler. For either way, the invoked super constructor has to be defined.
+
+*Checked vs Unchecked exception
+Unchecked exception - Error, RuntimeException
+
+*Redirect system out to file
+System.setOut();
+do not forget to revert it back
+
+*ArrayList vs LinkedList vs Vector
+ArrayList is implemented as a resizable array. As more elements are added to ArrayList, its size is increased dynamically. 
+It's elements can be accessed directly by using the get and set methods, since ArrayList is essentially an array.
+
+LinkedList is implemented as a double linked list. Its performance on add and remove is better than Arraylist, 
+but worse on get and set methods.
+
+Vector is similar with ArrayList, but it is synchronized.
+
+*HashSet vs. TreeSet vs. LinkedHashSet
+HashSet is Implemented using a hash table. Elements are not ordered. 
+The add, remove, and contains methods have constant time complexity O(1).
+
+TreeSet is implemented using a tree structure(red-black tree in algorithm book). 
+The elements in a set are sorted, but the add, remove, and contains methods has time complexity of O(log (n)). It offers several methods to deal with the ordered set like first(), last(), headSet(), tailSet(), etc.
+
+LinkedHashSet is between HashSet and TreeSet. 
+It is implemented as a hash table with a linked list running through it, so it provides the order of insertion. 
+The time complexity of basic methods is O(1).
+
+
+*The Efficient Counter
+The HashMap.put(key, value) method returns the key’s current value. 
+This is useful, because we can use the reference of the old value to update the value without searching one more time!
+
+HashMap<String, MutableInteger> efficientCounter = new HashMap<String, MutableInteger>();
+ 
+for (String a : sArr) {
+    MutableInteger initValue = new MutableInteger(1);
+    MutableInteger oldValue = efficientCounter.put(a, initValue);
+ 
+    if(oldValue != null){
+        initValue.set(oldValue.get() + 1);
+    }
+}
+
+HashMap<String, int[]> intCounter = new HashMap<String, int[]>();
+for (int i = 0; i < NUM_ITERATIONS; i++) {
+    for (String a : sArr) {
+        int[] valueWrapper = intCounter.get(a);
+ 
+        if (valueWrapper == null) {
+            intCounter.put(a, new int[] { 1 });
+        } else {
+            valueWrapper[0]++;
+        }
+    }
+}
+
+*Java Type Erasure Mechanism
+Java generics is implemented on the compilation level
+Array enforces their element types at runtime
+
+*Generics
+To sum up, the reasons to use Generics are as follows:
+Stronger type checking at compile time.
+Elimination of explicit cast.
+Enabling better code reusability such as implementation of generic algorithms
+
+*Covert Array to ArrayList
+Most popular way - ArrayList<Element> arrayList = new ArrayList<Element>(Arrays.asList(array));
+Another way List<Element> list = Arrays.asList(array);
+But this will generate an fixed length array list
+
+*How to use reflection? - Reflection is commonly used by programs which require the ability to examine 
+or modify the runtime behavior of applications running in the Java virtual machine
+1.Get class name from object
+2.Invoke method on unknown object
+3.Create object from Class instance
+4.Get constructor and create instance
+
+*Construct tree from traversal
+can not construct from post and pre order
+    A          A
+  B               B
+
+ both have post = BA and pre = AB
+ 
+*Java aliasing
+ class A {
+    public void methodParent() {
+        System.out.println("method in Parent");
+    }
+}
+ 
+class B extends A {
+    public void methodParent() {
+        System.out.println("override method in Child");
+    }
+ 
+    public void methodChild() {
+        System.out.println("method in Child");
+    }
+}
+ 
+public class Main {
+ 
+    public static void main(String[] args) {
+ 
+        B[] b = new B[10];
+        A[] a = b;
+ 
+        a[0] =  new A();
+        b[0].methodParent();
+    }
+}
+The reason is that Java handles aliasing during run-time. 
+During run-time, it knows that the first element should be a B object, instead of A.
+
+*Inversion of Control (Dependency Injection) 
+
+1. Constructor Injection
+Before:
+class MovieLister...
+  private MovieFinder finder;
+  public MovieLister() {
+    finder = new ColonDelimitedMovieFinder("movies1.txt");
+  }
+
+After:
+class MovieLister...
+    public MovieLister(MovieFinder finder) {
+        this.finder = finder;       
+    }
+    
+class ColonMovieFinder...
+    public ColonMovieFinder(String filename) {
+        this.filename = filename;
+    }
+Configure container
+private MutablePicoContainer configureContainer() {
+        MutablePicoContainer pico = new DefaultPicoContainer();
+        Parameter[] finderParams =  {new ConstantParameter("movies1.txt")};
+        pico.registerComponentImplementation(MovieFinder.class, ColonMovieFinder.class, finderParams);
+        pico.registerComponentImplementation(MovieLister.class);
+        return pico;
+    }
+
+2. Setter Injection, initialize concrete class in setter
+add a new setter
+class MovieLister...
+  private MovieFinder finder;
+  public void setFinder(MovieFinder finder) {
+    this.finder = finder;
+
+class ColonMovieFinder...
+    public void setFilename(String filename) {
+        this.filename = filename;
+    }
+  }
+
+Configuration file
+<beans>
+        <bean id="MovieLister" class="spring.MovieLister">
+            <property name="finder">
+                <ref local="MovieFinder"/>
+            </property>
+        </bean>
+        <bean id="MovieFinder" class="spring.ColonMovieFinder">
+            <property name="filename">
+                <value>movies1.txt</value>
+            </property>
+        </bean>
+</beans>
+
+3. Interface Injection
+
+* Service Locator
+class MovieLister...
+    MovieFinder finder = ServiceLocator.movieFinder();
+    
+class ServiceLocator...
+    public static MovieFinder movieFinder() {
+        return soleInstance.movieFinder;
+    }
+    private static ServiceLocator soleInstance;
+    private MovieFinder movieFinder;
+    
+class Tester...
+    private void configure() {
+        ServiceLocator.load(new ServiceLocator(new ColonMovieFinder("movies1.txt")));
+    }
+class ServiceLocator...
+    public static void load(ServiceLocator arg) {
+        soleInstance = arg;
+    }
+
+    public ServiceLocator(MovieFinder movieFinder) {
+        this.movieFinder = movieFinder;
+    }
+    
+* ListNode 
+You don't need to worry about nulling out the next in ListNode, once there is no live reference on the ListNode, it will be gc
+
+* LinkedList vs ArrayList
+                   | Arraylist | LinkedList
+ ------------------------------------------
+ get(index)        |    O(1)   |   O(n)
+ add(E)            |    O(n)   |   O(1)
+ add(E, index)     |    O(n)   |   O(n)
+ remove(index)     |    O(n)   |   O(n)
+ Iterator.remove() |    O(n)   |   O(1)
+ Iterator.add(E)   |    O(n)   |   O(1)
+
+* Filter a collection
+public interface Predicate<T> {
+   boolean test(T o);
+}
+ 
+public static <T> void filter(Collection<T> collection, Predicate<T> predicate) {
+    if ((collection != null) && (predicate != null)) {
+       Iterator<T> itr = collection.iterator();
+          while(itr.hasNext()) {
+            T obj = itr.next();
+            if (!predicate.test(obj)) {
+               itr.remove();
+            }
+        }
+    }
+}
+
+filter(list, new Predicate<Integer>() {
+    public boolean test(Integer i) { 
+       return i <= 5; 
+    }
+});
+
+* Immutable vs Unmodifiable
+Immutable - you can not change data
+Unmodifiable - create a wrapper view of the collection, if underlining collection changes, the view also changes.
+
+* TinyUrl
+http://n00tc0d3r.blogspot.com/2013/09/big-data-tinyurl.html?q=tinyurl
+//base conversion algorithm
+public String shorturl(int id, int base, HashMap map) {
+  StringBuilder res = new StringBuilder();
+  while (id > 0) {
+    int digit = id % base;
+    res.append(map.get(digit));
+    id /= base;
+  }
+  while (res.length() < 6)  res.append('0');
+  return res.reverse().toString();
+}
+
+*java substring
+s.substring(int beginIndex) - beginIndex range can be 0 to s.length(), if s.substring(s.length) will return a empty string
+
+
+*LinkedHashMap (capacity, loadFactor, boolean access_order or insert_order)
+LinkedHashMap, the re-insertion of an item does not affect insertion order.
+
+For LinkedHashMap, 'access order' is from the least recent access to the most recent access. 
+In this context, only calls to get, put, and putAll constitute an access, and only calls to these methods affect access order.
+
+
+*new vs clone
+New creates an object with constructor passed in.
+Clone creates an object and initialize all fields based on original object (shallow copy)
+
+
+*Garbage Collection
+The mark-and-sweep algorithm consists of two phases: In the first phase, it finds and marks all accessible objects. 
+The first phase is called the mark phase. In the second phase, 
+the garbage collection algorithm scans through the heap and reclaims all the unmarked objects. 
+
+The second phase is called the sweep phase. The algorithm can be expressed as follows:
+
+for each root variable r
+    mark (r);
+sweep ();
+In order to distinguish the live objects from garbage, we record the state of an object in each object. That is, we add a special boolean field to each object called, say, marked. By default, all objects are unmarked when they are created. Thus, the marked field is initially false.
+
+An object p and all the objects indirectly accessible from p can be marked by using the following recursive mark method:
+
+void mark (Object p)
+    if (!p.marked)
+        p.marked = true;
+        for each Object q referenced by p
+            mark (q);
+
+Notice that this recursive mark algorithm does nothing when it encounters an object that has already been marked. 
+Consequently, the algorithm is guaranteed to terminate. And it terminates only when all accessible objects have been marked.
+In its second phase, the mark-and-sweep algorithm scans through all the objects in the heap, 
+in order to locate all the unmarked objects. The storage allocated to the unmarked objects is reclaimed during the scan. 
+At the same time, the marked field on every live object is set back to false in preparation for the next invocation of the mark-and-sweep garbage collection algorithm:
+
+void sweep ()
+    for each Object p in the heap
+        if (p.marked)
+            p.marked = false
+        else
+            heap.release (p);
+
