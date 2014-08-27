@@ -23,6 +23,7 @@ public class JumpGame {
 		System.out.println(j.canJump(A));
 	}
 	
+	//key is try to find the max A[i] + i
 	public boolean canJump(int[] A) {
         if (A==null||A.length==0) {
         	return false;
@@ -34,14 +35,13 @@ public class JumpGame {
         	//save current index
         	int currentIndex = index;
         	for (int i=1; i<=A[currentIndex]; i++) {
-        		if (currentIndex+i == A.length-1) {
+        		int jumpIndex = currentIndex+i;
+        		if (jumpIndex == A.length-1) {
         			return true;
         		} 
         		
         		//skip 0
-        		if (A[currentIndex+i]==0) {
-        			continue;
-        		} else {
+        		if (A[jumpIndex]!=0) {
         			int newMax = A[currentIndex+i]+currentIndex+i;
         			if (newMax>maxPos) {
         				index = currentIndex+i;
@@ -49,7 +49,7 @@ public class JumpGame {
         			}
         		}
         	}   
-        	if (maxPos == 0) {
+        	if (currentIndex == index) {
         		return false;
         	}
         }    

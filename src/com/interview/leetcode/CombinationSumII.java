@@ -60,6 +60,8 @@ public class CombinationSumII {
 		//since the passed num is sorted, use one previous value to track already added value to avoid duplicate solution
 		int previous = -1;
 		for (int i=level; i<num.length; i++) {
+			//why do we want to use previous? For example [1,1,2,5,6,7], 
+			// we do not want to recalculate the second 1 since the first 1 is already calculated
 			if (num[i]!=previous) {
 				result.add(num[i]);
 				sum+=num[i];

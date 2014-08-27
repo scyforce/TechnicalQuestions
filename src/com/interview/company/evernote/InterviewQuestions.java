@@ -1,5 +1,6 @@
 package com.interview.company.evernote;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -21,7 +22,13 @@ public class InterviewQuestions {
 		return sum;
 	}
 	
-	//start index from 1
+	/*
+	 * This is to check if you have considered all cases
+	 * 1. insert in a regular position
+	 * 2. head is null
+	 * 3. insert in the first position
+	 * 4. the position you insert is out of list length
+	 */
 	public static Node<Integer> insertNodeToLinkedList(Node<Integer> head, int value, int position) {
 		if (position<=0) {
 			throw new ArrayIndexOutOfBoundsException();
@@ -53,10 +60,6 @@ public class InterviewQuestions {
 				}
 			}			
 		}
-		
-		
-		
-		
 		return head;
 	}
 	
@@ -118,6 +121,17 @@ public class InterviewQuestions {
 		return results;
 	}
 	
+	public static void removeDuplicate(int[] array) {
+		int count = 1;
+		int previous = array[0];
+		for (int i=1; i<array.length; i++) {
+			if (array[i]!=previous) {
+				array[count] = array[i];
+				count = count + 1;
+			}
+			previous = array[i];
+		}	
+	}
 	
 	public static int[] removeDuplicates(int[] array) {
 		// if array is null or empty, return itself back
@@ -160,18 +174,18 @@ public class InterviewQuestions {
 		
 		LinkedListUtils.printLinkedList(newHead);
 		
-		/*// TODO Auto-generated method stub
-	    int[] array1 = {};
+	    /*int[] array1 = {};
 	    System.out.println(Arrays.toString(InterviewQuestions.removeDuplicates(array1)));
 	    
 	    int[] array2 = {1};
 	    System.out.println(Arrays.toString(InterviewQuestions.removeDuplicates(array2)));
 	    
 	    int[] array3 = {1,2};
-	    System.out.println(Arrays.toString(InterviewQuestions.removeDuplicates(array3)));
+	    System.out.println(Arrays.toString(InterviewQuestions.removeDuplicates(array3)));*/
 	    
 	    int[] array4 = {1, 2, 3, 3, 3, 4, 4, 10, 13, 15, 15, 17};
-	    System.out.println(Arrays.toString(InterviewQuestions.removeDuplicates(array4)));*/
+	    InterviewQuestions.removeDuplicate(array4);
+	    System.out.println(Arrays.toString(array4));
 	}
 
 }

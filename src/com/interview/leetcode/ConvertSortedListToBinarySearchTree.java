@@ -56,15 +56,10 @@ public class ConvertSortedListToBinarySearchTree {
 		}
 		
 		int middle = start + (end-start)/2;
-		if (h.val==2) {
-			System.out.println();
-		}
 		
 		TreeNode leftNode = sortedListToBST(start, middle-1);
 		TreeNode parent = new TreeNode(h.val);		
 		h = h.next;
-		if(h!=null)
-			System.out.println(h.val);
 		TreeNode rightNode = sortedListToBST(middle+1, end);
 		
 		parent.left = leftNode;

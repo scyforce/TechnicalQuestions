@@ -20,6 +20,9 @@ public class LongestValidParentheses {
 		String s = "(()()";
 		System.out.println(l.longestValidParentheses(s));
 		
+		s = "(())";
+		System.out.println(l.longestValidParentheses(s));
+		
 		s =")()())";
 		System.out.println(l.longestValidParentheses(s));
 		

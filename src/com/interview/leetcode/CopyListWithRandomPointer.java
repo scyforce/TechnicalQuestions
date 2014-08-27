@@ -44,6 +44,7 @@ public class CopyListWithRandomPointer {
         RandomListNode newHead = current.next;
         while (current!=null) {
         	if (current.random!=null) {
+        		//now random.next is the copied node
         		current.next.random = current.random.next;
         	}
         	current = current.next.next;

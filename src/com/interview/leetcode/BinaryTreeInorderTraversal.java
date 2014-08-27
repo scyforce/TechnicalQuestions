@@ -27,16 +27,19 @@ public class BinaryTreeInorderTraversal {
 		TreeNode l1 = new TreeNode(2);
 		TreeNode r1 = new TreeNode(4);
 		TreeNode ll1 = new TreeNode(1);
+		TreeNode lr1 = new TreeNode(7);
 		TreeNode rr1 = new TreeNode(5);
 		
 		root.left = l1;
 		root.right = r1;
 		
 		l1.left = ll1;
+		l1.right = lr1;
 		r1.right = rr1;
 		
 		BinaryTreeInorderTraversal inorder = new BinaryTreeInorderTraversal();
-		inorder.inorderTraversalMorris(root);
+		inorder.inorderTraversal(root);
+		//inorder.inorderTraversalMorris(root);
 	}
 	
 	//LMR
@@ -57,6 +60,16 @@ public class BinaryTreeInorderTraversal {
 	    return values;
     }
 	
+	/*
+	 * 	1. Initialize current as root 
+		2. While current is not NULL
+   			If current does not have left child
+      			a) Print currentÕs data
+      			b) Go to the right, i.e., current = current->right
+   			Else
+      			a) Make current as right child of the rightmost node in current's left subtree
+      			b) Go to this left child, i.e., current = current->left
+	 */
 	public ArrayList<Integer> inorderTraversalMorris(TreeNode root) {
 		TreeNode cur = root;  
 		ArrayList<Integer> values = new ArrayList<Integer>();   

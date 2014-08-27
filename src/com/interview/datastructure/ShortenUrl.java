@@ -37,6 +37,6 @@ public class ShortenUrl {
 	
 	public static void main(String[] args) {
 		ShortenUrl url = new ShortenUrl();
-	    System.out.println(url.shorturl(998999999));
+	    System.out.println(url.shorturl(121));
 	}
 }

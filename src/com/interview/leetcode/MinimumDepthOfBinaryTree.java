@@ -16,6 +16,8 @@ public class MinimumDepthOfBinaryTree {
 		}
 		
 		//need to consider if left child is null or right child is null
+		//   1 
+		// 2
 		if (root.left==null) {
 			return 1+minDepth(root.right);
 		} else if (root.right==null) {

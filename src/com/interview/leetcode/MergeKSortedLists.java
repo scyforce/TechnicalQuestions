@@ -37,63 +37,6 @@ public class MergeKSortedLists {
 		result.print();		
 	}
 	
-	
-	public ListNode mergeKLists1(ArrayList<ListNode> lists) {
-		if (lists==null||lists.isEmpty()) {
-			return null;
-		}
-		
-		PriorityQueue<ListNode> minHeap = new PriorityQueue<ListNode>(lists.size(), new Comparator<ListNode>() {
-			@Override
-			public int compare(ListNode o1, ListNode o2) {
-				return o1.val - o2.val;
-			}
-		});
-		
-		for (ListNode list : lists) {
-			if (list!=null) {
-				minHeap.offer(list);
-			}			
-		}
-		
-		ListNode previous = new ListNode(0);
-		ListNode head = previous;
-		
-		while (!minHeap.isEmpty()) {
-			ListNode minNode = minHeap.poll();
-			head.next = minNode;
-			if (minNode.next!=null) {
-				minHeap.offer(minNode.next);
-			}
-			head = head.next;
-		}
-		
-		return previous.next;
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	//Time complexity: O(nklogk), Space complexity: O(k)
 	public ListNode mergeKLists(ArrayList<ListNode> lists) {
 		if (lists==null||lists.size()==0) {

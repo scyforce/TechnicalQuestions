@@ -15,7 +15,7 @@ package com.interview.leetcode;
  */
 public class FirstMissingPositive {
 	public static void main(String[] args) {
-		int[] A = {1,1};
+		int[] A = {3,4,-1,1};
 		FirstMissingPositive f = new FirstMissingPositive();
 		System.out.println(f.firstMissingPositive(A));
 	}

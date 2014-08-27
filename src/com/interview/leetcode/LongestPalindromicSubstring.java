@@ -17,6 +17,7 @@ public class LongestPalindromicSubstring {
 	}
 	
 	//time: O(n2), space: O(1)
+	//idea if use one or two char as the middle point, then check the left and right char to see if it is the same
 	public String longestPalindrome(String s) {
 		if (s==null||s.isEmpty()) {
 			return null;

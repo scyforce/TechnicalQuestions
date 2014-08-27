@@ -183,11 +183,6 @@ public class InterviewQuestions {
 		return false;
 	}
     
-    //TODO - implement
-    public String convertIntegerToHumanString(int number) {
-    	return "";
-    }
-    
     public static void main(String[] args) {
     	
     	String str = "sharperneedle";

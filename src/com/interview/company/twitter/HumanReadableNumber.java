@@ -29,16 +29,11 @@ public class HumanReadableNumber {
     	
     	int thousands = 0;
     	int leftPartNumber = number;
+    	int thousandsNumber = 1;
     	while (leftPartNumber>=1000) {
     		leftPartNumber/=1000;
     		thousands+=1;
-    	}
-    	
-    	int count = thousands;
-    	int thousandsNumber = 1;
-    	while (count>0) {
-    		thousandsNumber *=1000;
-    		count--;
+    		thousandsNumber*=1000;
     	}
     	//10,0001
         int rightPartNumber = number%thousandsNumber;  	
@@ -61,6 +56,6 @@ public class HumanReadableNumber {
     
     public static void main(String[] args) {
     	HumanReadableNumber h = new HumanReadableNumber();
-    	System.out.println(h.convert(100250));
+    	System.out.println(h.convert(10100250));
     }
 }

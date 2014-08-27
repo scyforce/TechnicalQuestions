@@ -10,7 +10,7 @@ package com.interview.leetcode;
 public class LongestCommonPrefix {
 	
 	public static void main(String[] args) {
-		String[] strs = {"abcd"};
+		String[] strs = {"abab","aba","a"};
 		LongestCommonPrefix l = new LongestCommonPrefix();
 		System.out.println(l.longestCommonPrefix(strs));
 		
@@ -25,7 +25,7 @@ public class LongestCommonPrefix {
         String str = strs[0];
         for (int i=0; i<str.length(); i++) {
         	boolean isSame = true;
-        	for (int j=0; j<strs.length; j++) {
+        	for (int j=1; j<strs.length; j++) {
         		//"aa" "a" || "ab" "ac"
         		if (i==strs[j].length() || str.charAt(i)!=strs[j].charAt(i)) {
         			isSame = false;
