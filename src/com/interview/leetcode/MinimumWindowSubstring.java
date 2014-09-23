@@ -51,6 +51,7 @@ public class MinimumWindowSubstring {
         Map<Character, Integer>needFind=new HashMap<Character, Integer>();
         Map<Character, Integer>alreadyFind=new HashMap<Character, Integer>();
         
+        //build two maps: one is alreadyFind count, the other is needFind count
         for(int i=0; i<T.length(); i++){
             alreadyFind.put(T.charAt(i), 0);
             
@@ -78,6 +79,7 @@ public class MinimumWindowSubstring {
                 }
                 
                 if (len==T.length()){
+                	//first condition is to filter non-valid char, second condition is to check if the char we found is more than needed
                     while (!needFind.containsKey(S.charAt(start)) || alreadyFind.get(S.charAt(start))>needFind.get(S.charAt(start))){
                         
                         if (needFind.containsKey(S.charAt(start))){

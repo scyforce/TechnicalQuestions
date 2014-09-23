@@ -2,6 +2,7 @@ package com.interview.leetcode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 
 /**
 
@@ -24,73 +25,38 @@ public class ThreeSum {
 		int[] num = {-1,0,1,2,-1,-4};
 		ThreeSum ts = new ThreeSum();
 		
-		ArrayList<ArrayList<Integer>> results = ts.threeSum1(num);
+		ArrayList<ArrayList<Integer>> results = ts.threeSumHash(num);
 		for (ArrayList<Integer> result : results) {
 			System.out.println(Arrays.toString(result.toArray()));
 		}
 	}
 	
-	
-	public ArrayList<ArrayList<Integer>> threeSum1(int[] num) {
+	public ArrayList<ArrayList<Integer>> threeSumHash(int[] num) {
 		ArrayList<ArrayList<Integer>> results = new ArrayList<ArrayList<Integer>>();
 		if (num==null||num.length<3) {
 			return results;
 		}
 		
-		Arrays.sort(num);
-		
+		HashMap<Integer, int[]> map = new HashMap<Integer, int[]>();
 		int target = 0;
+		
 		for (int i=0; i<num.length-2; i++) {
-			if (i==0||num[i]>num[i-1]) {
-				int reverseTarget = target - num[i];
-				int start = i+1;
-				int end = num.length-1;
-				while (start<end) {
-					if (reverseTarget == num[start]+num[end]) {
-						ArrayList<Integer> result = new ArrayList<Integer>();
-						result.add(num[i]);
-						result.add(num[start]);
-						result.add(num[end]);
-						results.add(result);
-						start = start + 1;
-						end = end - 1;
-						
-						while (start<end&&num[start]==num[start-1]) {
-							start = start + 1;
-						}
-						
-						while (start<end&&num[end]==num[end+1]) {
-							end = end - 1;
-						}				
-					} else if (reverseTarget > num[start]+num[end]){
-						end = end - 1;
-					} else {
-						start = start + 1;
-					}
-				}			
+			for (int j=i+1; j<num.length; j++) {
+				if (map.containsKey(num[j])) {
+					int[] pair = map.get(num[j]);
+					ArrayList<Integer> result = new ArrayList<Integer>();
+					result.add(num[j]);
+					result.add(pair[0]);
+					result.add(pair[1]);
+					results.add(result);
+					map.remove(num[i]);
+				} else {
+					map.put(target-num[i]-num[j], new int[]{num[i], num[j]});
+				}
 			}
 		}
 		return results;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	//O(n2)
 	public ArrayList<ArrayList<Integer>> threeSum(int[] num) {

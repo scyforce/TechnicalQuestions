@@ -1,5 +1,6 @@
 package com.interview.leetcode;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -22,9 +23,37 @@ import java.util.Map;
  */
 public class TwoSum {
 	public static void main(String[] args) {
-		int[] numbers = {4,2,2,6,7};
+		int[] numbers = {-1,1,0,2,-2,3,5,-3};
 		TwoSum t = new TwoSum();
-		System.out.println(Arrays.toString(t.twoSums(numbers, 4)));
+		ArrayList<ArrayList<Integer>> results = t.twoSums(numbers);
+		for (ArrayList<Integer> result : results) {
+			System.out.println(Arrays.toString(result.toArray()));
+		}
+		
+		//System.out.println(Arrays.toString(t.twoSums(numbers, 4)));
+	}
+	
+	public ArrayList<ArrayList<Integer>> twoSums(int[] numbers) {
+		ArrayList<ArrayList<Integer>> results = new ArrayList<ArrayList<Integer>>();
+		if (numbers==null||numbers.length<2) {
+			return results;
+		}
+		
+		int target = 0;
+		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+		for (int number : numbers) {
+			if (map.containsKey(number)) {
+				ArrayList<Integer> result = new ArrayList<Integer>();
+				result.add(map.get(number));
+				result.add(number);
+				results.add(result);
+			} else {
+				map.put(target-number, number);
+			}
+		}
+		
+		return results;
+		
 	}
 	
 	public int[] twoSum(int[] numbers, int target) {

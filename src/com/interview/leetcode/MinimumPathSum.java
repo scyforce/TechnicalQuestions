@@ -27,6 +27,16 @@ public class MinimumPathSum {
         
         int[][] results = new int[rows][columns];
 
+        /*
+         * [1  2  3  4
+         *  5  6  7  8
+         *  9 10 11 12
+         * ]
+         * 
+         * look at grid[2][3]=12, it can come from grid[1][3]=8 or grid[2][2]=11, so we pick the minimum one plus 12
+         * 
+         */
+        
         for(int i=0; i<rows; i++) {
             for(int j=0; j<columns; j++) {               
                 if(i==0&&j==0) {

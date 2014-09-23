@@ -10,11 +10,11 @@ import java.util.Arrays;
  * @author shuchun.yang
  *
  */
-public class PermutationsIIII {
+public class PermutationsIII {
 	public static void main(String[] args) {
 		String s = "abcd";
-		PermutationsIIII p = new PermutationsIIII();
-		ArrayList<String> results = p.permutation(s);
+		PermutationsIII p = new PermutationsIII();
+		ArrayList<String> results = p.permute(s);
 		
 		System.out.println(Arrays.toString(results.toArray()));
 	}

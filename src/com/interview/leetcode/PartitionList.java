@@ -13,6 +13,7 @@ package com.interview.leetcode;
  */
 public class PartitionList {
 	public static void main(String[] args) {
+		//5 4 3 2 5 2 -> 2 2 2 5 4 3 5
 		ListNode l1 = new ListNode(5);
 		ListNode l2 = new ListNode(4);
 		ListNode l3 = new ListNode(3);
@@ -22,15 +23,16 @@ public class PartitionList {
 		
 		l1.next = l2; l2.next = l3; l3.next = l4; l4.next = l5; l5.next = l6;
 		
-		ListNode l7 = new ListNode(1);
-		ListNode l8 = new ListNode(2);
+		ListNode l7 = new ListNode(2);
+		ListNode l8 = new ListNode(1);
+		ListNode l9 = new ListNode(3);
 		l7.next = l8;
+		l8.next = l9;
 		
 		PartitionList p = new PartitionList();
-		p.partition(l7, 2);
-		
+		ListNode l = p.partition(l1, 3);
+		l.print();
 	}
-	
 	
 	//the idea is loop through the list, if found less than x do not move, if greater than x insert to the end
 	public ListNode partition(ListNode head, int x) {
@@ -51,7 +53,7 @@ public class PartitionList {
         while (index<length) {
         	if (head.val>=x) {
         		//store next element
-        		ListNode temp = head.next;
+        		ListNode next = head.next;
         		//move current to last
         		last.next = head;
         		//set current.next to null
@@ -59,14 +61,14 @@ public class PartitionList {
         		//move last to current
         		last = head;
         		//set new head
-        		head = temp;
+        		head = next;
         		//if all previous all larger than x, then move finalHead to the next element
         		if (previous==null) {
         			finalHead = head;
         		} else {
         			//if reach the end, do not set previous
         			if (head!=null) {
-        				previous.next = temp;
+        				previous.next = next;
         			}        			
         		}
         	} else {

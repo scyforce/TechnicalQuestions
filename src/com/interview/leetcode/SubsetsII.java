@@ -1,6 +1,7 @@
 package com.interview.leetcode;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 
 /**
@@ -27,7 +28,33 @@ import java.util.Collections;
  */
 public class SubsetsII {
 	
-	public ArrayList<ArrayList<Integer>> subsetsWithDup(int[] num) {
+	public ArrayList<ArrayList<Integer>> subsetsWithDup(int[] S) {
+		if (S==null) {
+			return null;
+		}
+		ArrayList<ArrayList<Integer>> results = new ArrayList<ArrayList<Integer>>();
+		//All [] is a subset
+		results.add(new ArrayList<Integer>());
+		
+		Arrays.sort(S);
+		
+		subsets(new ArrayList<Integer>(), results, 0, S);
+		return results;		
+	}
+	
+	public void subsets(ArrayList<Integer> result, ArrayList<ArrayList<Integer>> results, int level, int[] S) {
+			for (int i=level; i<S.length; i++) {
+				result.add(S[i]);				
+				results.add(new ArrayList<Integer>(result));
+				subsets(result, results, i+1, S);
+				result.remove(result.size()-1);		
+				while(i<S.length-1 && S[i]==S[i+1]) {
+					i++;
+				}
+			}
+	}
+	
+	public ArrayList<ArrayList<Integer>> subsetsWithDup1(int[] num) {
 		ArrayList<ArrayList<Integer>> results = new ArrayList<ArrayList<Integer>>();
 		if (num==null||num.length==0) {
 			return results;
@@ -101,7 +128,7 @@ public class SubsetsII {
 		
 		
 		SubsetsII s = new SubsetsII();
-		int[] num = {1,2,3};
+		int[] num = {1,2,2};
 		System.out.println(s.subsetsWithDup(num));
 		
 		

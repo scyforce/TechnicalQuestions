@@ -16,7 +16,7 @@ public class IntegerToRoman {
 	
 	public static void main(String[] args) {
 		IntegerToRoman i = new IntegerToRoman();
-		System.out.println(i.intToRoman(1));
+		System.out.println(i.intToRoman(55));
 	}
 	
 	/**

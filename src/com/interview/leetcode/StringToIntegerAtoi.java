@@ -31,37 +31,6 @@ public class StringToIntegerAtoi {
 	}
 	
 	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	/**
 	 * Overall:
 	 * 1. starting whitespace

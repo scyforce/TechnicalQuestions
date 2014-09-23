@@ -37,6 +37,7 @@ public class PalindromePartitioningII {
 		
 		for (int j=2; j<=s.length(); j++) {
 			for (int i=1; i<=j; i++) {
+				//j-i==1, two char are the same, j-i==0, same char
 				if (s.charAt(i-1)==s.charAt(j-1) && ((j-i)<2||palindrome[i+1][j-1])) {
 					palindrome[i][j]=true;
 					results[j] = Math.min(results[j], results[i-1]+1);

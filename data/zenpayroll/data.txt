@@ -1,0 +1,28 @@
+Name: Skiles Inc <|> Id: 625 <|> Join date: 2013-03-04 <|> Balance: $85,641.72
+Name: Carter and Sons <|> Id: 446 <|> Join date: 2011-07-19 <|> Balance: $52,245.13
+Name: Hauck, Baumbach and Senger <|> Id: 657 <|> Join date: 2012-11-26 <|> Balance: $92,223.58
+Name: O'Connell LLC <|> Id: 549 <|> Join date: 2013-09-09 <|> Balance: $29,982.66
+Name: Walter LLC <|> Id: 630 <|> Join date: 2011-04-30 <|> Balance: $73,304.47
+Name: McKenzie, Mitchell and Paucek <|> Id: 461 <|> Join date: 2013-09-19 <|> Balance: $69,662.76
+Name: Hintz Inc <|> Id: 633 <|> Join date: 2011-10-26 <|> Balance: $65,541.60
+Name: Green-Donnelly <|> Id: 315 <|> Join date: 2012-09-14 <|> Balance: $5,186.29
+Name: Ryan and Sons <|> Id: 695 <|> Join date: 2011-11-24 <|> Balance: $47,509.69
+Name: Koelpin Inc <|> Id: 211 <|> Join date: 2012-01-23 <|> Balance: $6,906.16
+Name: Wisoky and Sons <|> Id: 650 <|> Join date: 2011-06-27 <|> Balance: $2,998.46
+Name: Mills, Heathcote and Kirlin <|> Id: 312 <|> Join date: 2012-07-19 <|> Balance: $7,935.88
+Name: Anderson-Medhurst <|> Id: 521 <|> Join date: 2011-09-03 <|> Balance: $54,846.77
+Name: Wilkinson, Hansen and Maggio <|> Id: 338 <|> Join date: 2013-02-20 <|> Balance: $81,976.45
+Name: Beer-Kerluke <|> Id: 428 <|> Join date: 2013-08-19 <|> Balance: $60,113.41
+Name: Erdman-Blanda <|> Id: 499 <|> Join date: 2013-03-16 <|> Balance: $29,547.60
+Name: Harris-Murphy <|> Id: 662 <|> Join date: 2013-01-07 <|> Balance: $86,398.87
+Name: Jaskolski-Waelchi <|> Id: 532 <|> Join date: 2013-10-31 <|> Balance: $21,845.54
+Name: Erdman-Bernhard <|> Id: 689 <|> Join date: 2011-03-18 <|> Balance: $98,356.61
+Name: Wisoky-Conn <|> Id: 488 <|> Join date: 2012-12-02 <|> Balance: $27,770.71
+Name: Gerlach-Stamm <|> Id: 286 <|> Join date: 2012-12-22 <|> Balance: $38,773.11
+Name: Jaskolski Inc <|> Id: 49 <|> Join date: 2012-09-09 <|> Balance: $50,243.12
+Name: Littel, Thiel and Hagenes <|> Id: 12 <|> Join date: 2012-11-29 <|> Balance: $18,251.45
+Name: Miller LLC <|> Id: 533 <|> Join date: 2011-02-16 <|> Balance: $87,141.81
+Name: Steuber, McClure and Mosciski <|> Id: 244 <|> Join date: 2013-10-25 <|> Balance: $88,305.84
+Name: Keeling-Strosin <|> Id: 470 <|> Join date: 2013-10-24 <|> Balance: $23,901.52
+Name: Rutherford Group <|> Id: 162 <|> Join date: 2012-07-15 <|> Balance: $50,275.62
+Name: Lubowitz-Marks <|> Id: 51 <|> Join date: 2013-10-19 <|> Balance: $92,379.74

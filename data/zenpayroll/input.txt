@@ -1,0 +1,735 @@
+Name: Skiles Inc <|> Id: 625 <|> Join date: 2013-03-04 <|> Balance: $85,641.72
+Name: Carter and Sons <|> Id: 446 <|> Join date: 2011-07-19 <|> Balance: $52,245.13
+Name: Hauck, Baumbach and Senger <|> Id: 657 <|> Join date: 2012-11-26 <|> Balance: $92,223.58
+Name: O'Connell LLC <|> Id: 549 <|> Join date: 2013-09-09 <|> Balance: $29,982.66
+Name: Walter LLC <|> Id: 630 <|> Join date: 2011-04-30 <|> Balance: $73,304.47
+Name: McKenzie, Mitchell and Paucek <|> Id: 461 <|> Join date: 2013-09-19 <|> Balance: $69,662.76
+Name: Hintz Inc <|> Id: 633 <|> Join date: 2011-10-26 <|> Balance: $65,541.60
+Name: Green-Donnelly <|> Id: 315 <|> Join date: 2012-09-14 <|> Balance: $5,186.29
+Name: Ryan and Sons <|> Id: 695 <|> Join date: 2011-11-24 <|> Balance: $47,509.69
+Name: Koelpin Inc <|> Id: 211 <|> Join date: 2012-01-23 <|> Balance: $6,906.16
+Name: Wisoky and Sons <|> Id: 650 <|> Join date: 2011-06-27 <|> Balance: $2,998.46
+Name: Mills, Heathcote and Kirlin <|> Id: 312 <|> Join date: 2012-07-19 <|> Balance: $7,935.88
+Name: Anderson-Medhurst <|> Id: 521 <|> Join date: 2011-09-03 <|> Balance: $54,846.77
+Name: Wilkinson, Hansen and Maggio <|> Id: 338 <|> Join date: 2013-02-20 <|> Balance: $81,976.45
+Name: Beer-Kerluke <|> Id: 428 <|> Join date: 2013-08-19 <|> Balance: $60,113.41
+Name: Erdman-Blanda <|> Id: 499 <|> Join date: 2013-03-16 <|> Balance: $29,547.60
+Name: Harris-Murphy <|> Id: 662 <|> Join date: 2013-01-07 <|> Balance: $86,398.87
+Name: Jaskolski-Waelchi <|> Id: 532 <|> Join date: 2013-10-31 <|> Balance: $21,845.54
+Name: Erdman-Bernhard <|> Id: 689 <|> Join date: 2011-03-18 <|> Balance: $98,356.61
+Name: Wisoky-Conn <|> Id: 488 <|> Join date: 2012-12-02 <|> Balance: $27,770.71
+Name: Gerlach-Stamm <|> Id: 286 <|> Join date: 2012-12-22 <|> Balance: $38,773.11
+Name: Jaskolski Inc <|> Id: 49 <|> Join date: 2012-09-09 <|> Balance: $50,243.12
+Name: Littel, Thiel and Hagenes <|> Id: 12 <|> Join date: 2012-11-29 <|> Balance: $18,251.45
+Name: Miller LLC <|> Id: 533 <|> Join date: 2011-02-16 <|> Balance: $87,141.81
+Name: Steuber, McClure and Mosciski <|> Id: 244 <|> Join date: 2013-10-25 <|> Balance: $88,305.84
+Name: Keeling-Strosin <|> Id: 470 <|> Join date: 2013-10-24 <|> Balance: $23,901.52
+Name: Rutherford Group <|> Id: 162 <|> Join date: 2012-07-15 <|> Balance: $50,275.62
+Name: Lubowitz-Marks <|> Id: 51 <|> Join date: 2013-10-19 <|> Balance: $92,379.74
+Name: Marvin, Quitzon and Little <|> Id: 679 <|> Join date: 2012-09-04 <|> Balance: $78,142.17
+Name: Roob, Denesik and Hirthe <|> Id: 123 <|> Join date: 2011-08-22 <|> Balance: $88,396.68
+Name: Crona-Frami <|> Id: 137 <|> Join date: 2012-02-26 <|> Balance: $79,884.29
+Name: Jerde, Gottlieb and Abbott <|> Id: 595 <|> Join date: 2012-10-03 <|> Balance: $17,822.72
+Name: Purdy and Sons <|> Id: 222 <|> Join date: 2013-11-01 <|> Balance: $49,874.29
+Name: Schaden-Kub <|> Id: 373 <|> Join date: 2011-08-14 <|> Balance: $22,276.88
+Name: Lemke, Rau and Tromp <|> Id: 87 <|> Join date: 2012-07-11 <|> Balance: $80,664.92
+Name: Hand Inc <|> Id: 384 <|> Join date: 2013-04-01 <|> Balance: $66,940.77
+Name: Buckridge Inc <|> Id: 682 <|> Join date: 2013-11-26 <|> Balance: $75,059.23
+Name: Wiza-Abernathy <|> Id: 25 <|> Join date: 2011-08-07 <|> Balance: $71,297.78
+Name: Tillman, Mitchell and Stoltenberg <|> Id: 644 <|> Join date: 2012-04-10 <|> Balance: $41,245.32
+Name: Johnson Inc <|> Id: 462 <|> Join date: 2012-07-01 <|> Balance: $28,538.49
+Name: Tromp and Sons <|> Id: 95 <|> Join date: 2012-02-23 <|> Balance: $42,820.67
+Name: Harris-Herman <|> Id: 101 <|> Join date: 2013-07-03 <|> Balance: $87,811.57
+Name: Schmeler LLC <|> Id: 390 <|> Join date: 2011-07-02 <|> Balance: $32,465.26
+Name: Crona, Zulauf and Pacocha <|> Id: 302 <|> Join date: 2011-06-13 <|> Balance: $53,936.61
+Name: Gutkowski-Kub <|> Id: 582 <|> Join date: 2012-11-20 <|> Balance: $28,640.73
+Name: White-Prohaska <|> Id: 592 <|> Join date: 2013-03-26 <|> Balance: $44,892.27
+Name: Romaguera-Kris <|> Id: 107 <|> Join date: 2011-03-06 <|> Balance: $93,728.55
+Name: King, Breitenberg and Ankunding <|> Id: 473 <|> Join date: 2012-02-07 <|> Balance: $51,680.19
+Name: Parker Group <|> Id: 466 <|> Join date: 2011-10-19 <|> Balance: $85,420.12
+Name: McCullough-Fadel <|> Id: 237 <|> Join date: 2013-11-06 <|> Balance: $56,005.87
+Name: Johnston-Glover <|> Id: 577 <|> Join date: 2013-09-01 <|> Balance: $34,627.53
+Name: Gaylord, Jenkins and Rolfson <|> Id: 75 <|> Join date: 2012-11-30 <|> Balance: $85,118.42
+Name: VonRueden Inc <|> Id: 496 <|> Join date: 2011-06-09 <|> Balance: $79,963.66
+Name: Brown, Jast and Kautzer <|> Id: 371 <|> Join date: 2011-02-02 <|> Balance: $6,267.55
+Name: Casper-Mueller <|> Id: 221 <|> Join date: 2012-10-25 <|> Balance: $60,945.82
+Name: Oga Group <|> Id: 495 <|> Join date: 2013-04-25 <|> Balance: $75,383.75
+Name: Mohr, Zboncak and Fisher <|> Id: 270 <|> Join date: 2011-04-24 <|> Balance: $55,053.17
+Name: Douglas, Waelchi and Schmeler <|> Id: 265 <|> Join date: 2011-09-06 <|> Balance: $45,096.30
+Name: Schmidt, Roob and Ritchie <|> Id: 538 <|> Join date: 2013-02-17 <|> Balance: $12,858.02
+Name: Pollich-Turcotte <|> Id: 30 <|> Join date: 2011-07-24 <|> Balance: $91,646.57
+Name: Waters and Sons <|> Id: 138 <|> Join date: 2013-01-29 <|> Balance: $57,845.38
+Name: Pacocha Inc <|> Id: 74 <|> Join date: 2012-10-24 <|> Balance: $57,408.29
+Name: Ernser, Wyman and Donnelly <|> Id: 287 <|> Join date: 2012-05-23 <|> Balance: $29,454.53
+Name: Beer-Lowe <|> Id: 269 <|> Join date: 2011-10-16 <|> Balance: $93,466.30
+Name: Fay, Bode and Bayer <|> Id: 18 <|> Join date: 2013-05-28 <|> Balance: $32,863.46
+Name: Klocko Inc <|> Id: 36 <|> Join date: 2011-05-13 <|> Balance: $32,814.05
+Name: Jacobi Group <|> Id: 580 <|> Join date: 2013-01-11 <|> Balance: $66,281.22
+Name: Collier Inc <|> Id: 43 <|> Join date: 2012-02-05 <|> Balance: $27,364.93
+Name: Pfeffer Inc <|> Id: 357 <|> Join date: 2012-03-03 <|> Balance: $92,332.73
+Name: Turcotte LLC <|> Id: 274 <|> Join date: 2011-08-28 <|> Balance: $19,033.76
+Name: O'Reilly-Greenholt <|> Id: 492 <|> Join date: 2012-01-17 <|> Balance: $86,088.38
+Name: Prohaska-Price <|> Id: 603 <|> Join date: 2011-06-08 <|> Balance: $20,175.05
+Name: Grady-Grimes <|> Id: 578 <|> Join date: 2012-05-20 <|> Balance: $94,431.94
+Name: Rolfson-Beier <|> Id: 392 <|> Join date: 2011-06-08 <|> Balance: $63,794.40
+Name: McDermott-Walter <|> Id: 379 <|> Join date: 2012-01-01 <|> Balance: $25,536.63
+Name: Collins, Borer and Tremblay <|> Id: 9 <|> Join date: 2012-04-03 <|> Balance: $19,669.89
+Name: Trantow Inc <|> Id: 583 <|> Join date: 2012-10-02 <|> Balance: $74,093.03
+Name: Schaefer-Roberts <|> Id: 262 <|> Join date: 2013-10-19 <|> Balance: $98,791.78
+Name: Rowe, Wehner and Parisian <|> Id: 541 <|> Join date: 2013-12-16 <|> Balance: $53,169.32
+Name: Dooley, Daugherty and Will <|> Id: 186 <|> Join date: 2012-01-23 <|> Balance: $81,567.25
+Name: Oberbrunner-Schmitt <|> Id: 297 <|> Join date: 2011-05-24 <|> Balance: $48,055.04
+Name: Pollich-Mitchell <|> Id: 159 <|> Join date: 2011-06-08 <|> Balance: $12,754.59
+Name: Mayert, Hickle and Hodkiewicz <|> Id: 358 <|> Join date: 2011-03-03 <|> Balance: $50,372.15
+Name: Collier-Weimann <|> Id: 413 <|> Join date: 2011-09-13 <|> Balance: $51,052.98
+Name: Carter LLC <|> Id: 260 <|> Join date: 2013-07-26 <|> Balance: $10,302.93
+Name: Konopelski, Graham and Kautzer <|> Id: 152 <|> Join date: 2011-09-25 <|> Balance: $44,907.69
+Name: Stanton LLC <|> Id: 425 <|> Join date: 2011-03-07 <|> Balance: $93,125.57
+Name: Eichmann-Waelchi <|> Id: 168 <|> Join date: 2012-09-28 <|> Balance: $54,052.06
+Name: Stamm, Hickle and Schultz <|> Id: 143 <|> Join date: 2013-03-08 <|> Balance: $79,118.92
+Name: Kerluke-Fay <|> Id: 712 <|> Join date: 2012-01-04 <|> Balance: $65,429.49
+Name: Ledner, Beatty and DuBuque <|> Id: 656 <|> Join date: 2013-02-14 <|> Balance: $43,013.05
+Name: Hauck-Cassin <|> Id: 729 <|> Join date: 2013-08-30 <|> Balance: $66,867.78
+Name: Lindgren, Fahey and Wintheiser <|> Id: 675 <|> Join date: 2012-09-21 <|> Balance: $61,625.26
+Name: Wilkinson, Gibson and Harber <|> Id: 5 <|> Join date: 2013-01-17 <|> Balance: $84,695.24
+Name: Blanda and Sons <|> Id: 434 <|> Join date: 2013-10-19 <|> Balance: $49,009.94
+Name: McGlynn-Haley <|> Id: 73 <|> Join date: 2013-02-12 <|> Balance: $69,799.89
+Name: Stiedemann-Upton <|> Id: 459 <|> Join date: 2011-11-04 <|> Balance: $59,584.78
+Name: Lakin, Wunsch and Hermann <|> Id: 404 <|> Join date: 2011-04-18 <|> Balance: $58,121.08
+Name: Rowe, Lakin and Bernier <|> Id: 457 <|> Join date: 2012-06-19 <|> Balance: $28,429.21
+Name: McGlynn, Kreiger and Boyle <|> Id: 111 <|> Join date: 2012-06-13 <|> Balance: $84,430.05
+Name: Lowe, Gorczany and Kovacek <|> Id: 511 <|> Join date: 2013-05-04 <|> Balance: $30,114.86
+Name: Trantow, O'Conner and Greenfelder <|> Id: 173 <|> Join date: 2011-12-06 <|> Balance: $87,482.44
+Name: Parker Group <|> Id: 1 <|> Join date: 2012-03-16 <|> Balance: $8,914.47
+Name: Schiller and Sons <|> Id: 349 <|> Join date: 2011-01-23 <|> Balance: $32,457.19
+Name: Zieme Inc <|> Id: 681 <|> Join date: 2012-08-19 <|> Balance: $71,182.16
+Name: Medhurst-Sanford <|> Id: 316 <|> Join date: 2012-03-02 <|> Balance: $27,859.35
+Name: Yundt LLC <|> Id: 197 <|> Join date: 2013-04-26 <|> Balance: $88,572.68
+Name: Nitzsche, Fisher and Cassin <|> Id: 610 <|> Join date: 2011-11-12 <|> Balance: $74,386.92
+Name: Mitchell, Leffler and Funk <|> Id: 220 <|> Join date: 2013-10-01 <|> Balance: $90,327.50
+Name: Nikolaus, Jakubowski and Herzog <|> Id: 67 <|> Join date: 2011-06-21 <|> Balance: $3,311.98
+Name: Dickens-Rolfson <|> Id: 479 <|> Join date: 2011-01-16 <|> Balance: $75,081.09
+Name: Batz-Kertzmann <|> Id: 19 <|> Join date: 2013-04-27 <|> Balance: $67,090.12
+Name: Connelly, Christiansen and Schuster <|> Id: 647 <|> Join date: 2011-01-13 <|> Balance: $38,660.63
+Name: Waelchi and Sons <|> Id: 154 <|> Join date: 2013-04-03 <|> Balance: $49,511.74
+Name: Mills-Nader <|> Id: 731 <|> Join date: 2012-05-16 <|> Balance: $98,698.64
+Name: Roob LLC <|> Id: 4 <|> Join date: 2012-08-12 <|> Balance: $52,755.76
+Name: White Inc <|> Id: 585 <|> Join date: 2012-07-22 <|> Balance: $16,664.78
+Name: Ernser, Wunsch and Simonis <|> Id: 354 <|> Join date: 2012-01-07 <|> Balance: $36,814.57
+Name: VonRueden, Kunde and Koss <|> Id: 478 <|> Join date: 2011-05-16 <|> Balance: $91,685.39
+Name: Morissette-Jewess <|> Id: 600 <|> Join date: 2012-01-05 <|> Balance: $54,623.67
+Name: Halvorson-Lind <|> Id: 267 <|> Join date: 2013-08-15 <|> Balance: $5,399.63
+Name: Hessel LLC <|> Id: 177 <|> Join date: 2012-11-26 <|> Balance: $76,170.15
+Name: Heaney, Volkman and Brekke <|> Id: 730 <|> Join date: 2011-02-12 <|> Balance: $43,597.63
+Name: Yost, Hagenes and Runolfsdottir <|> Id: 684 <|> Join date: 2012-12-26 <|> Balance: $75,397.54
+Name: Bechtelar and Sons <|> Id: 449 <|> Join date: 2011-12-04 <|> Balance: $30,015.68
+Name: Kshlerin LLC <|> Id: 251 <|> Join date: 2013-05-25 <|> Balance: $9,700.73
+Name: Stoltenberg-Daugherty <|> Id: 693 <|> Join date: 2012-12-21 <|> Balance: $37,035.90
+Name: Collier Inc <|> Id: 167 <|> Join date: 2011-10-02 <|> Balance: $94,428.64
+Name: Kirlin Inc <|> Id: 706 <|> Join date: 2012-11-20 <|> Balance: $35,935.86
+Name: Mosciski, Feest and Borer <|> Id: 445 <|> Join date: 2013-05-13 <|> Balance: $19,312.18
+Name: Braun-Schaden <|> Id: 435 <|> Join date: 2011-01-23 <|> Balance: $40,109.36
+Name: Cronin and Sons <|> Id: 147 <|> Join date: 2012-10-10 <|> Balance: $86,984.02
+Name: Leuschke-Ortiz <|> Id: 300 <|> Join date: 2013-01-02 <|> Balance: $80,656.40
+Name: Ortiz LLC <|> Id: 62 <|> Join date: 2012-10-21 <|> Balance: $75,251.91
+Name: Beer-Corkery <|> Id: 467 <|> Join date: 2013-05-18 <|> Balance: $47,837.31
+Name: Yost, Kshlerin and Daugherty <|> Id: 214 <|> Join date: 2012-05-18 <|> Balance: $91,442.66
+Name: Wunsch, Zulauf and Wisozk <|> Id: 263 <|> Join date: 2011-05-27 <|> Balance: $16,829.29
+Name: Kerluke-Bosco <|> Id: 605 <|> Join date: 2012-08-03 <|> Balance: $96,164.68
+Name: Powlowski, Rice and Wintheiser <|> Id: 212 <|> Join date: 2013-01-12 <|> Balance: $4,293.40
+Name: Tromp-Hintz <|> Id: 416 <|> Join date: 2012-09-15 <|> Balance: $1,299.91
+Name: Zemlak, Reinger and Altenwerth <|> Id: 285 <|> Join date: 2012-12-22 <|> Balance: $99,150.63
+Name: Schaden Inc <|> Id: 308 <|> Join date: 2013-04-06 <|> Balance: $31,014.03
+Name: Osinski-Baumbach <|> Id: 142 <|> Join date: 2013-11-24 <|> Balance: $60,604.04
+Name: Balistreri Inc <|> Id: 77 <|> Join date: 2012-09-13 <|> Balance: $48,650.39
+Name: Schulist and Sons <|> Id: 545 <|> Join date: 2011-02-19 <|> Balance: $4,879.04
+Name: Moen-Hayes <|> Id: 335 <|> Join date: 2012-11-17 <|> Balance: $84,286.56
+Name: Konopelski, Windler and Romaguera <|> Id: 727 <|> Join date: 2011-02-08 <|> Balance: $98,744.06
+Name: Heathcote Group <|> Id: 646 <|> Join date: 2011-01-30 <|> Balance: $41,927.99
+Name: Kerluke-VonRueden <|> Id: 258 <|> Join date: 2013-04-17 <|> Balance: $53,091.41
+Name: Hudson Inc <|> Id: 234 <|> Join date: 2011-10-01 <|> Balance: $86,153.66
+Name: Runolfsdottir-Johns <|> Id: 196 <|> Join date: 2011-02-28 <|> Balance: $22,859.94
+Name: Jaskolski and Sons <|> Id: 292 <|> Join date: 2012-06-16 <|> Balance: $46,334.05
+Name: Boyle, Kutch and Reinger <|> Id: 195 <|> Join date: 2012-06-27 <|> Balance: $69,342.11
+Name: Kozey-Gulgowski <|> Id: 696 <|> Join date: 2013-06-26 <|> Balance: $4,756.10
+Name: Graham Group <|> Id: 522 <|> Join date: 2011-01-31 <|> Balance: $92,029.19
+Name: Mertz-Quitzon <|> Id: 28 <|> Join date: 2011-02-18 <|> Balance: $3,095.71
+Name: Nienow, Maggio and Schinner <|> Id: 192 <|> Join date: 2013-06-13 <|> Balance: $65,242.13
+Name: Kuphal-Maggio <|> Id: 48 <|> Join date: 2012-03-02 <|> Balance: $9,941.68
+Name: Robel, Kutch and Feest <|> Id: 299 <|> Join date: 2012-01-15 <|> Balance: $17,841.30
+Name: Kilback Inc <|> Id: 44 <|> Join date: 2012-12-14 <|> Balance: $23,795.02
+Name: Ward-Bartell <|> Id: 84 <|> Join date: 2013-03-20 <|> Balance: $41,629.93
+Name: Hoppe-Morar <|> Id: 686 <|> Join date: 2013-07-12 <|> Balance: $46,463.31
+Name: Kutch-Jacobs <|> Id: 128 <|> Join date: 2012-01-14 <|> Balance: $36,077.76
+Name: Schuppe-Lang <|> Id: 108 <|> Join date: 2011-12-29 <|> Balance: $8,445.45
+Name: Cummerata LLC <|> Id: 193 <|> Join date: 2012-03-06 <|> Balance: $49,815.57
+Name: Gutkowski, Treutel and Lang <|> Id: 576 <|> Join date: 2011-07-12 <|> Balance: $91,277.30
+Name: Friesen-Bahringer <|> Id: 306 <|> Join date: 2011-12-14 <|> Balance: $30,515.27
+Name: Barrows Inc <|> Id: 670 <|> Join date: 2013-06-03 <|> Balance: $59,951.39
+Name: Russel-Dach <|> Id: 71 <|> Join date: 2011-12-18 <|> Balance: $96,086.61
+Name: Ebert-Goldner <|> Id: 343 <|> Join date: 2011-05-29 <|> Balance: $71,994.68
+Name: Schmidt Inc <|> Id: 327 <|> Join date: 2011-06-06 <|> Balance: $11,835.99
+Name: Kovacek-Becker <|> Id: 383 <|> Join date: 2012-12-21 <|> Balance: $51,872.92
+Name: Shields, O'Kon and Weber <|> Id: 505 <|> Join date: 2013-03-11 <|> Balance: $81,649.42
+Name: Wintheiser Inc <|> Id: 176 <|> Join date: 2011-02-05 <|> Balance: $83,872.50
+Name: Kuhn Group <|> Id: 475 <|> Join date: 2012-09-16 <|> Balance: $94,850.73
+Name: Swaniawski Group <|> Id: 620 <|> Join date: 2011-03-08 <|> Balance: $24,887.46
+Name: Huel Inc <|> Id: 39 <|> Join date: 2012-06-17 <|> Balance: $57,863.95
+Name: Boyle, Parisian and Morar <|> Id: 616 <|> Join date: 2013-04-17 <|> Balance: $77,081.24
+Name: Bernhard, Sawayn and Heidenreich <|> Id: 530 <|> Join date: 2011-05-10 <|> Balance: $25,640.24
+Name: Hamill LLC <|> Id: 163 <|> Join date: 2013-09-08 <|> Balance: $53,317.25
+Name: Effertz-Considine <|> Id: 504 <|> Join date: 2013-01-01 <|> Balance: $49,905.83
+Name: Adams-O'Reilly <|> Id: 523 <|> Join date: 2011-01-11 <|> Balance: $27,437.96
+Name: Schuster-Aufderhar <|> Id: 202 <|> Join date: 2011-02-11 <|> Balance: $6,653.74
+Name: Bednar, Kris and Thompson <|> Id: 571 <|> Join date: 2011-10-02 <|> Balance: $64,799.41
+Name: Reichert and Sons <|> Id: 219 <|> Join date: 2011-04-17 <|> Balance: $56,818.71
+Name: Little LLC <|> Id: 276 <|> Join date: 2013-05-26 <|> Balance: $31,324.22
+Name: Dicki-Fisher <|> Id: 669 <|> Join date: 2011-08-01 <|> Balance: $32,198.53
+Name: Bosco Inc <|> Id: 342 <|> Join date: 2013-10-17 <|> Balance: $47,569.51
+Name: Morissette LLC <|> Id: 501 <|> Join date: 2013-08-29 <|> Balance: $28,264.27
+Name: Raynor-Collins <|> Id: 589 <|> Join date: 2012-09-04 <|> Balance: $23,504.19
+Name: Von Group <|> Id: 289 <|> Join date: 2011-12-25 <|> Balance: $11,474.13
+Name: Stiedemann LLC <|> Id: 281 <|> Join date: 2013-11-10 <|> Balance: $96,101.72
+Name: Reichert LLC <|> Id: 353 <|> Join date: 2013-08-03 <|> Balance: $47,377.28
+Name: Mueller, Douglas and Hoeger <|> Id: 360 <|> Join date: 2012-04-28 <|> Balance: $29,093.97
+Name: Kuphal LLC <|> Id: 560 <|> Join date: 2012-10-25 <|> Balance: $24,563.36
+Name: Harris Inc <|> Id: 408 <|> Join date: 2013-02-09 <|> Balance: $88,349.31
+Name: Kunde, Romaguera and Durgan <|> Id: 271 <|> Join date: 2012-10-09 <|> Balance: $64,022.01
+Name: Bergstrom, Nikolaus and Fadel <|> Id: 498 <|> Join date: 2012-12-23 <|> Balance: $62,199.54
+Name: Mertz, Rohan and Renner <|> Id: 60 <|> Join date: 2013-03-20 <|> Balance: $32,546.48
+Name: Rosenbaum, Stamm and Rath <|> Id: 641 <|> Join date: 2013-12-18 <|> Balance: $28,300.25
+Name: Simonis, Corwin and Bosco <|> Id: 698 <|> Join date: 2012-09-28 <|> Balance: $52,441.38
+Name: Spencer, Walker and Ankunding <|> Id: 452 <|> Join date: 2012-07-31 <|> Balance: $49,928.33
+Name: Wiza, Gutmann and Pacocha <|> Id: 429 <|> Join date: 2013-05-16 <|> Balance: $89,036.66
+Name: Carter-Adams <|> Id: 119 <|> Join date: 2012-04-19 <|> Balance: $54,974.98
+Name: Doyle-Monahan <|> Id: 324 <|> Join date: 2012-11-14 <|> Balance: $7,527.66
+Name: Johns Inc <|> Id: 375 <|> Join date: 2012-04-10 <|> Balance: $13,734.98
+Name: Rath, Powlowski and Dare <|> Id: 460 <|> Join date: 2013-12-01 <|> Balance: $67,031.16
+Name: Feest-Abbott <|> Id: 439 <|> Join date: 2013-12-06 <|> Balance: $53,292.83
+Name: Littel, Wuckert and Brown <|> Id: 406 <|> Join date: 2013-03-09 <|> Balance: $48,796.26
+Name: Bednar LLC <|> Id: 318 <|> Join date: 2013-12-21 <|> Balance: $58,320.53
+Name: Ziemann Inc <|> Id: 96 <|> Join date: 2012-08-17 <|> Balance: $60,644.84
+Name: Emmerich, Medhurst and Kirlin <|> Id: 133 <|> Join date: 2012-11-10 <|> Balance: $59,512.79
+Name: Durgan, Stark and Kunze <|> Id: 668 <|> Join date: 2012-01-30 <|> Balance: $90,848.13
+Name: Bashirian LLC <|> Id: 667 <|> Join date: 2011-04-21 <|> Balance: $20,104.09
+Name: Marquardt, Cormier and Batz <|> Id: 500 <|> Join date: 2012-05-18 <|> Balance: $38,406.89
+Name: Johnson LLC <|> Id: 642 <|> Join date: 2012-03-22 <|> Balance: $55,864.67
+Name: Schulist Inc <|> Id: 708 <|> Join date: 2011-11-19 <|> Balance: $40,373.59
+Name: Block-Koch <|> Id: 103 <|> Join date: 2011-06-27 <|> Balance: $40,385.28
+Name: Luettgen-Harber <|> Id: 314 <|> Join date: 2013-02-16 <|> Balance: $99,687.18
+Name: Haley-Raynor <|> Id: 90 <|> Join date: 2011-11-12 <|> Balance: $24,917.40
+Name: Tremblay, O'Kon and Beatty <|> Id: 374 <|> Join date: 2013-07-24 <|> Balance: $37,261.03
+Name: Swaniawski Group <|> Id: 542 <|> Join date: 2013-05-04 <|> Balance: $25,979.83
+Name: Rath-Padberg <|> Id: 255 <|> Join date: 2013-07-07 <|> Balance: $89,863.21
+Name: Rath-Luettgen <|> Id: 3 <|> Join date: 2011-11-06 <|> Balance: $37,317.27
+Name: Bosco, Yundt and Leannon <|> Id: 517 <|> Join date: 2013-12-07 <|> Balance: $93,083.29
+Name: Fay, Bernier and Casper <|> Id: 455 <|> Join date: 2011-10-18 <|> Balance: $86,450.62
+Name: Anderson-Glover <|> Id: 552 <|> Join date: 2012-07-11 <|> Balance: $69,721.30
+Name: Quitzon-Morissette <|> Id: 86 <|> Join date: 2011-12-07 <|> Balance: $22,492.09
+Name: Wuckert Group <|> Id: 444 <|> Join date: 2013-02-01 <|> Balance: $97,598.68
+Name: Hoppe Group <|> Id: 553 <|> Join date: 2013-08-19 <|> Balance: $68,568.32
+Name: Walsh Group <|> Id: 593 <|> Join date: 2012-05-19 <|> Balance: $78,220.59
+Name: Abshire Group <|> Id: 421 <|> Join date: 2012-08-16 <|> Balance: $63,366.10
+Name: Koch-Schneider <|> Id: 628 <|> Join date: 2011-04-19 <|> Balance: $72,578.42
+Name: Stehr, Kovacek and Schoen <|> Id: 394 <|> Join date: 2012-01-09 <|> Balance: $43,012.86
+Name: Monahan, Jacobi and Will <|> Id: 254 <|> Join date: 2011-01-29 <|> Balance: $1,583.21
+Name: Berge and Sons <|> Id: 419 <|> Join date: 2011-10-02 <|> Balance: $1,522.97
+Name: Mitchell Inc <|> Id: 635 <|> Join date: 2012-04-08 <|> Balance: $29,530.83
+Name: Rau-Wisozk <|> Id: 710 <|> Join date: 2011-04-29 <|> Balance: $68,543.31
+Name: Jenkins Group <|> Id: 34 <|> Join date: 2011-01-14 <|> Balance: $53,799.16
+Name: Kertzmann Group <|> Id: 372 <|> Join date: 2013-08-13 <|> Balance: $94,571.41
+Name: Yundt, Jakubowski and Wilderman <|> Id: 264 <|> Join date: 2012-09-03 <|> Balance: $41,714.27
+Name: Raynor-Kunze <|> Id: 453 <|> Join date: 2012-11-18 <|> Balance: $7,736.59
+Name: Turner LLC <|> Id: 233 <|> Join date: 2012-08-25 <|> Balance: $96,603.75
+Name: Gorczany-Homenick <|> Id: 126 <|> Join date: 2012-07-02 <|> Balance: $40,483.15
+Name: Cole-Zulauf <|> Id: 249 <|> Join date: 2012-04-21 <|> Balance: $75,187.25
+Name: Kris, Turcotte and Spinka <|> Id: 247 <|> Join date: 2011-03-04 <|> Balance: $58,573.87
+Name: Bauch, Gerlach and Ebert <|> Id: 697 <|> Join date: 2011-04-09 <|> Balance: $15,724.77
+Name: Mueller Inc <|> Id: 556 <|> Join date: 2013-02-04 <|> Balance: $4,630.39
+Name: Legros-Goodwin <|> Id: 132 <|> Join date: 2013-01-29 <|> Balance: $53,306.52
+Name: Hamill-Volkman <|> Id: 426 <|> Join date: 2011-09-18 <|> Balance: $21,295.71
+Name: Rath-Hagenes <|> Id: 454 <|> Join date: 2013-06-22 <|> Balance: $65,993.14
+Name: Buckridge, Keeling and Pouros <|> Id: 380 <|> Join date: 2011-04-12 <|> Balance: $20,770.55
+Name: Hane LLC <|> Id: 626 <|> Join date: 2013-08-20 <|> Balance: $47,003.25
+Name: Schoen-Daugherty <|> Id: 326 <|> Join date: 2011-02-05 <|> Balance: $94,476.36
+Name: Bashirian Inc <|> Id: 420 <|> Join date: 2012-11-18 <|> Balance: $3,638.45
+Name: Goldner-Jones <|> Id: 235 <|> Join date: 2011-03-20 <|> Balance: $73,199.43
+Name: Friesen, Mayer and Donnelly <|> Id: 719 <|> Join date: 2012-09-08 <|> Balance: $46,468.01
+Name: Sipes, Lemke and Will <|> Id: 178 <|> Join date: 2012-12-18 <|> Balance: $76,494.92
+Name: Kihn, Runte and Abshire <|> Id: 218 <|> Join date: 2012-01-15 <|> Balance: $71,805.33
+Name: Tromp LLC <|> Id: 631 <|> Join date: 2012-07-23 <|> Balance: $87,132.09
+Name: Jenkins, Cummings and Stark <|> Id: 720 <|> Join date: 2011-03-03 <|> Balance: $13,484.19
+Name: DuBuque-Lebsack <|> Id: 127 <|> Join date: 2012-10-05 <|> Balance: $61,744.20
+Name: Towne Group <|> Id: 277 <|> Join date: 2011-02-15 <|> Balance: $21,297.58
+Name: Kozey, Lockman and Cole <|> Id: 652 <|> Join date: 2012-04-01 <|> Balance: $2,674.79
+Name: Jenkins, Ankunding and Auer <|> Id: 468 <|> Join date: 2011-02-12 <|> Balance: $81,843.75
+Name: Considine-Hauck <|> Id: 483 <|> Join date: 2011-12-20 <|> Balance: $22,047.23
+Name: Conroy-Balistreri <|> Id: 584 <|> Join date: 2013-09-30 <|> Balance: $33,455.24
+Name: Quigley Group <|> Id: 213 <|> Join date: 2013-07-27 <|> Balance: $91,353.63
+Name: Lockman-Reilly <|> Id: 561 <|> Join date: 2011-12-01 <|> Balance: $47,927.60
+Name: Luettgen Inc <|> Id: 182 <|> Join date: 2011-09-18 <|> Balance: $4,757.77
+Name: Murray-Mayert <|> Id: 336 <|> Join date: 2013-12-28 <|> Balance: $75,224.76
+Name: Schaefer, Kohler and Roob <|> Id: 476 <|> Join date: 2012-03-16 <|> Balance: $27,136.83
+Name: Kulas-Grimes <|> Id: 241 <|> Join date: 2011-01-13 <|> Balance: $13,280.87
+Name: Volkman, Fritsch and Lueilwitz <|> Id: 153 <|> Join date: 2012-12-26 <|> Balance: $34,093.91
+Name: Sawayn, Dibbert and Wilkinson <|> Id: 614 <|> Join date: 2012-09-12 <|> Balance: $65,562.60
+Name: Metz-Huel <|> Id: 599 <|> Join date: 2012-03-08 <|> Balance: $59,911.30
+Name: Balistreri, Effertz and Hintz <|> Id: 282 <|> Join date: 2013-12-28 <|> Balance: $9,875.27
+Name: Zieme-Jast <|> Id: 692 <|> Join date: 2013-06-12 <|> Balance: $93,477.82
+Name: Fahey Inc <|> Id: 678 <|> Join date: 2012-09-13 <|> Balance: $92,874.52
+Name: Lockman-Wyman <|> Id: 294 <|> Join date: 2012-05-18 <|> Balance: $71,500.04
+Name: Ziemann-Gleason <|> Id: 506 <|> Join date: 2011-09-12 <|> Balance: $46,128.77
+Name: Quigley Group <|> Id: 209 <|> Join date: 2013-07-12 <|> Balance: $91,867.85
+Name: Ortiz-Pollich <|> Id: 636 <|> Join date: 2013-06-16 <|> Balance: $95,969.50
+Name: Langworth Group <|> Id: 61 <|> Join date: 2012-03-29 <|> Balance: $3,328.00
+Name: Hamill, Russel and Koelpin <|> Id: 558 <|> Join date: 2011-10-19 <|> Balance: $85,238.45
+Name: Reichert-Heathcote <|> Id: 141 <|> Join date: 2012-10-28 <|> Balance: $71,414.59
+Name: Bernier, Littel and Becker <|> Id: 594 <|> Join date: 2013-11-23 <|> Balance: $25,317.95
+Name: Breitenberg, Satterfield and Medhurst <|> Id: 596 <|> Join date: 2013-10-17 <|> Balance: $32,841.43
+Name: Friesen and Sons <|> Id: 602 <|> Join date: 2012-03-05 <|> Balance: $97,248.12
+Name: Walter Group <|> Id: 367 <|> Join date: 2013-08-16 <|> Balance: $48,126.04
+Name: Doyle Inc <|> Id: 531 <|> Join date: 2011-07-21 <|> Balance: $91,565.39
+Name: Lowe-Abbott <|> Id: 588 <|> Join date: 2012-12-14 <|> Balance: $14,977.67
+Name: Kiehn Inc <|> Id: 311 <|> Join date: 2011-06-09 <|> Balance: $1,898.44
+Name: Haag Group <|> Id: 654 <|> Join date: 2011-10-17 <|> Balance: $63,964.07
+Name: Gleichner Group <|> Id: 613 <|> Join date: 2012-07-16 <|> Balance: $7,341.17
+Name: Cruickshank-Konopelski <|> Id: 432 <|> Join date: 2011-03-04 <|> Balance: $42,360.23
+Name: Dach-Keeling <|> Id: 527 <|> Join date: 2012-10-15 <|> Balance: $36,613.67
+Name: Prohaska, McGlynn and Kreiger <|> Id: 304 <|> Join date: 2011-09-07 <|> Balance: $8,180.04
+Name: Heathcote-Denesik <|> Id: 109 <|> Join date: 2012-04-30 <|> Balance: $44,972.35
+Name: Wisoky, Rippin and Becker <|> Id: 40 <|> Join date: 2011-07-24 <|> Balance: $84,520.97
+Name: Schmitt-Krajcik <|> Id: 325 <|> Join date: 2012-03-30 <|> Balance: $21,578.59
+Name: O'Keefe-Veum <|> Id: 104 <|> Join date: 2012-07-14 <|> Balance: $37,807.27
+Name: Dickens and Sons <|> Id: 405 <|> Join date: 2011-04-07 <|> Balance: $80,285.14
+Name: Terry LLC <|> Id: 204 <|> Join date: 2012-10-21 <|> Balance: $30,778.50
+Name: Fadel-Parisian <|> Id: 619 <|> Join date: 2011-07-15 <|> Balance: $32,822.04
+Name: Legros-Harvey <|> Id: 534 <|> Join date: 2013-05-08 <|> Balance: $8,357.72
+Name: Hegmann, Conn and Kling <|> Id: 236 <|> Join date: 2013-06-20 <|> Balance: $38,454.31
+Name: Larkin, Reynolds and Hansen <|> Id: 268 <|> Join date: 2013-06-07 <|> Balance: $72,416.21
+Name: Wiegand and Sons <|> Id: 293 <|> Join date: 2011-01-06 <|> Balance: $79,269.19
+Name: Kilback, Haley and Swift <|> Id: 227 <|> Join date: 2013-01-30 <|> Balance: $27,173.77
+Name: Runolfsson, Heaney and Feest <|> Id: 229 <|> Join date: 2012-08-29 <|> Balance: $92,837.46
+Name: Eichmann, Von and Hackett <|> Id: 673 <|> Join date: 2013-12-09 <|> Balance: $12,161.33
+Name: Schinner LLC <|> Id: 307 <|> Join date: 2012-04-05 <|> Balance: $56,559.13
+Name: McLaughlin, Christiansen and Durgan <|> Id: 31 <|> Join date: 2012-10-28 <|> Balance: $37,544.51
+Name: Trantow-Bednar <|> Id: 157 <|> Join date: 2013-09-18 <|> Balance: $32,801.58
+Name: Purdy and Sons <|> Id: 98 <|> Join date: 2012-06-28 <|> Balance: $96,995.39
+Name: Kiehn-Keeling <|> Id: 618 <|> Join date: 2012-01-16 <|> Balance: $20,095.02
+Name: Johns, Kutch and Rolfson <|> Id: 726 <|> Join date: 2011-11-22 <|> Balance: $32,256.28
+Name: Brown-Bernhard <|> Id: 179 <|> Join date: 2011-07-30 <|> Balance: $22,196.14
+Name: Conn, Schroeder and Halvorson <|> Id: 687 <|> Join date: 2012-06-01 <|> Balance: $28,193.01
+Name: Corwin-Spencer <|> Id: 574 <|> Join date: 2011-06-15 <|> Balance: $14,070.10
+Name: Nitzsche and Sons <|> Id: 386 <|> Join date: 2013-10-04 <|> Balance: $71,926.42
+Name: Kirlin-Kessler <|> Id: 502 <|> Join date: 2013-04-05 <|> Balance: $50,221.40
+Name: Cronin and Sons <|> Id: 332 <|> Join date: 2013-10-09 <|> Balance: $27,184.52
+Name: Bruen, Lueilwitz and Kirlin <|> Id: 685 <|> Join date: 2013-01-24 <|> Balance: $82,033.70
+Name: Krajcik-Skiles <|> Id: 259 <|> Join date: 2013-06-04 <|> Balance: $64,916.37
+Name: Hyatt, Runte and Friesen <|> Id: 513 <|> Join date: 2012-12-19 <|> Balance: $73,546.40
+Name: Wolff-Deckow <|> Id: 54 <|> Join date: 2013-09-15 <|> Balance: $5,495.45
+Name: Cummerata, Maggio and Corkery <|> Id: 15 <|> Join date: 2013-08-31 <|> Balance: $12,986.21
+Name: Herzog-Willms <|> Id: 130 <|> Join date: 2011-03-13 <|> Balance: $67,288.76
+Name: Kuhic Group <|> Id: 441 <|> Join date: 2013-07-02 <|> Balance: $25,382.08
+Name: Goyette Group <|> Id: 550 <|> Join date: 2013-04-12 <|> Balance: $35,000.54
+Name: Johnston, Lindgren and Nitzsche <|> Id: 63 <|> Join date: 2012-09-25 <|> Balance: $49,682.43
+Name: Walker, Hudson and Williamson <|> Id: 337 <|> Join date: 2011-05-21 <|> Balance: $85,425.74
+Name: Reichert Inc <|> Id: 118 <|> Join date: 2012-07-17 <|> Balance: $53,144.12
+Name: Blick, Becker and Schumm <|> Id: 361 <|> Join date: 2012-12-03 <|> Balance: $1,473.70
+Name: Gleichner Inc <|> Id: 723 <|> Join date: 2012-12-09 <|> Balance: $75,533.18
+Name: Cummerata Inc <|> Id: 399 <|> Join date: 2011-03-24 <|> Balance: $44,033.05
+Name: Dare LLC <|> Id: 181 <|> Join date: 2013-08-06 <|> Balance: $70,684.24
+Name: Wilkinson Inc <|> Id: 649 <|> Join date: 2011-05-29 <|> Balance: $1,174.78
+Name: Lesch-Lynch <|> Id: 590 <|> Join date: 2012-08-12 <|> Balance: $98,989.90
+Name: Olson, Padberg and Kuhn <|> Id: 278 <|> Join date: 2013-08-29 <|> Balance: $85,163.02
+Name: Kris-Schmidt <|> Id: 32 <|> Join date: 2013-02-10 <|> Balance: $85,348.67
+Name: Walsh Inc <|> Id: 350 <|> Join date: 2013-06-23 <|> Balance: $31,318.15
+Name: Grant, Homenick and Boehm <|> Id: 587 <|> Join date: 2012-09-16 <|> Balance: $68,936.84
+Name: Sanford Group <|> Id: 250 <|> Join date: 2012-12-22 <|> Balance: $86,650.37
+Name: Kulas-Jenkins <|> Id: 443 <|> Join date: 2013-08-15 <|> Balance: $83,995.15
+Name: Nader, Schoen and Harber <|> Id: 597 <|> Join date: 2013-02-08 <|> Balance: $95,590.01
+Name: Kihn LLC <|> Id: 112 <|> Join date: 2013-01-13 <|> Balance: $25,400.66
+Name: Cormier-Schroeder <|> Id: 94 <|> Join date: 2013-10-22 <|> Balance: $64,158.77
+Name: Corwin, Kihn and Rosenbaum <|> Id: 672 <|> Join date: 2013-01-28 <|> Balance: $36,877.30
+Name: Schmidt Inc <|> Id: 643 <|> Join date: 2013-01-26 <|> Balance: $14,438.76
+Name: Nikolaus, Heaney and O'Reilly <|> Id: 189 <|> Join date: 2011-09-03 <|> Balance: $61,209.91
+Name: Jenkins-Casper <|> Id: 409 <|> Join date: 2013-04-30 <|> Balance: $62,616.23
+Name: Schmitt and Sons <|> Id: 156 <|> Join date: 2012-07-05 <|> Balance: $98,762.10
+Name: Buckridge-Kassulke <|> Id: 471 <|> Join date: 2013-12-05 <|> Balance: $9,865.02
+Name: Harvey, Mohr and Monahan <|> Id: 180 <|> Join date: 2013-04-30 <|> Balance: $25,328.21
+Name: Bruen Inc <|> Id: 99 <|> Join date: 2011-08-16 <|> Balance: $55,473.44
+Name: Strosin Group <|> Id: 160 <|> Join date: 2012-10-31 <|> Balance: $49,957.48
+Name: Brekke, Conn and Cruickshank <|> Id: 519 <|> Join date: 2013-01-10 <|> Balance: $33,789.17
+Name: Howell, Yost and Kris <|> Id: 472 <|> Join date: 2011-03-30 <|> Balance: $43,272.76
+Name: Windler, Windler and Purdy <|> Id: 535 <|> Join date: 2012-11-16 <|> Balance: $65,822.87
+Name: Klocko, Klocko and Goodwin <|> Id: 512 <|> Join date: 2013-02-18 <|> Balance: $72,667.22
+Name: Wuckert, Ward and Lindgren <|> Id: 47 <|> Join date: 2012-10-16 <|> Balance: $12,077.16
+Name: McGlynn Group <|> Id: 398 <|> Join date: 2011-11-01 <|> Balance: $57,002.24
+Name: Reichert, Weissnat and Franecki <|> Id: 114 <|> Join date: 2012-02-08 <|> Balance: $32,745.89
+Name: Crooks, Reichert and Kertzmann <|> Id: 83 <|> Join date: 2012-06-15 <|> Balance: $26,829.49
+Name: Mohr, Lind and Mertz <|> Id: 344 <|> Join date: 2013-11-13 <|> Balance: $31,386.11
+Name: Reynolds, Gaylord and Becker <|> Id: 615 <|> Join date: 2011-10-17 <|> Balance: $85,490.48
+Name: Jenkins LLC <|> Id: 26 <|> Join date: 2013-11-11 <|> Balance: $28,966.29
+Name: Klocko-Adams <|> Id: 395 <|> Join date: 2013-03-23 <|> Balance: $21,332.75
+Name: Schneider-Grady <|> Id: 248 <|> Join date: 2012-12-12 <|> Balance: $41,128.03
+Name: Schinner and Sons <|> Id: 309 <|> Join date: 2013-11-01 <|> Balance: $95,790.18
+Name: Bednar-Orn <|> Id: 149 <|> Join date: 2012-10-23 <|> Balance: $2,336.52
+Name: Swift, Doyle and Baumbach <|> Id: 341 <|> Join date: 2012-08-21 <|> Balance: $44,926.11
+Name: Windler-Corwin <|> Id: 515 <|> Join date: 2011-02-13 <|> Balance: $6,395.81
+Name: White-Metz <|> Id: 110 <|> Join date: 2013-02-03 <|> Balance: $12,961.62
+Name: Hoeger and Sons <|> Id: 208 <|> Join date: 2012-08-26 <|> Balance: $33,037.76
+Name: Nitzsche and Sons <|> Id: 563 <|> Join date: 2012-02-28 <|> Balance: $22,258.54
+Name: Dooley LLC <|> Id: 569 <|> Join date: 2012-08-13 <|> Balance: $2,399.09
+Name: Cummings-Kreiger <|> Id: 447 <|> Join date: 2012-08-17 <|> Balance: $20,884.69
+Name: Marvin Inc <|> Id: 329 <|> Join date: 2011-03-15 <|> Balance: $84,827.72
+Name: Glover-Cronin <|> Id: 382 <|> Join date: 2012-09-06 <|> Balance: $44,590.43
+Name: Howell-Hills <|> Id: 666 <|> Join date: 2013-06-24 <|> Balance: $20,507.46
+Name: Jast, Brown and Jenkins <|> Id: 321 <|> Join date: 2012-08-15 <|> Balance: $47,896.12
+Name: Jacobi LLC <|> Id: 113 <|> Join date: 2011-12-25 <|> Balance: $61,622.95
+Name: Harvey, Zieme and Dibbert <|> Id: 145 <|> Join date: 2012-05-28 <|> Balance: $4,491.95
+Name: Bode, Cruickshank and Champlin <|> Id: 226 <|> Join date: 2011-05-18 <|> Balance: $79,232.57
+Name: Kozey-Quitzon <|> Id: 680 <|> Join date: 2013-09-13 <|> Balance: $54,356.63
+Name: Kihn, Russel and Douglas <|> Id: 65 <|> Join date: 2013-05-04 <|> Balance: $74,447.89
+Name: Macejkovic, Schroeder and Sauer <|> Id: 503 <|> Join date: 2013-02-05 <|> Balance: $15,569.48
+Name: Schinner, Brekke and Murazik <|> Id: 564 <|> Join date: 2012-03-01 <|> Balance: $86,703.22
+Name: Pfannerstill Inc <|> Id: 624 <|> Join date: 2013-02-06 <|> Balance: $59,926.86
+Name: Dietrich-Moen <|> Id: 172 <|> Join date: 2013-02-14 <|> Balance: $64,279.44
+Name: Raynor Group <|> Id: 122 <|> Join date: 2012-02-29 <|> Balance: $75,545.34
+Name: Hoppe and Sons <|> Id: 199 <|> Join date: 2013-08-17 <|> Balance: $77,157.57
+Name: Brekke-Treutel <|> Id: 131 <|> Join date: 2013-08-04 <|> Balance: $63,874.09
+Name: Mohr, Stroman and Braun <|> Id: 187 <|> Join date: 2013-07-30 <|> Balance: $11,705.20
+Name: Tromp Inc <|> Id: 528 <|> Join date: 2013-02-15 <|> Balance: $86,598.46
+Name: Glover, Larson and Labadie <|> Id: 629 <|> Join date: 2011-06-30 <|> Balance: $74,267.61
+Name: Lesch Inc <|> Id: 411 <|> Join date: 2011-06-20 <|> Balance: $43,651.31
+Name: Langosh, Sanford and Witting <|> Id: 484 <|> Join date: 2011-09-08 <|> Balance: $23,031.79
+Name: Gerlach Inc <|> Id: 56 <|> Join date: 2013-08-23 <|> Balance: $46,340.33
+Name: Dibbert Group <|> Id: 41 <|> Join date: 2011-09-28 <|> Balance: $89,840.52
+Name: Haley LLC <|> Id: 223 <|> Join date: 2012-02-24 <|> Balance: $35,640.18
+Name: Veum, Volkman and Heathcote <|> Id: 45 <|> Join date: 2013-06-20 <|> Balance: $57,458.99
+Name: Ullrich-Dickinson <|> Id: 491 <|> Join date: 2011-02-09 <|> Balance: $88,943.86
+Name: Bergnaum-Kutch <|> Id: 704 <|> Join date: 2012-04-29 <|> Balance: $38,595.81
+Name: Monahan, Christiansen and Lind <|> Id: 637 <|> Join date: 2013-12-17 <|> Balance: $76,971.21
+Name: Lakin-Turcotte <|> Id: 703 <|> Join date: 2012-07-18 <|> Balance: $19,686.54
+Name: Wolff LLC <|> Id: 217 <|> Join date: 2011-04-21 <|> Balance: $92,052.80
+Name: Schneider-Robel <|> Id: 653 <|> Join date: 2011-03-27 <|> Balance: $25,462.29
+Name: Schimmel-Blanda <|> Id: 415 <|> Join date: 2011-12-26 <|> Balance: $38,645.65
+Name: Eichmann and Sons <|> Id: 334 <|> Join date: 2012-06-21 <|> Balance: $97,121.12
+Name: Considine Inc <|> Id: 733 <|> Join date: 2011-02-15 <|> Balance: $93,806.92
+Name: Mohr, Hansen and Vandervort <|> Id: 458 <|> Join date: 2013-02-08 <|> Balance: $7,898.34
+Name: Bergstrom, Wunsch and Johns <|> Id: 417 <|> Join date: 2011-12-10 <|> Balance: $80,069.12
+Name: Kozey, Stark and Mayer <|> Id: 203 <|> Join date: 2011-01-20 <|> Balance: $15,589.68
+Name: Champlin and Sons <|> Id: 717 <|> Join date: 2011-03-23 <|> Balance: $61,076.06
+Name: Cummerata-Lebsack <|> Id: 29 <|> Join date: 2011-07-04 <|> Balance: $96,608.69
+Name: Cummings and Sons <|> Id: 713 <|> Join date: 2011-03-22 <|> Balance: $88,243.72
+Name: Botsford-Von <|> Id: 469 <|> Join date: 2013-12-19 <|> Balance: $83,680.73
+Name: Feeney Group <|> Id: 520 <|> Join date: 2012-10-23 <|> Balance: $12,497.28
+Name: Keeling-Stiedemann <|> Id: 715 <|> Join date: 2012-05-03 <|> Balance: $42,735.82
+Name: McLaughlin-Kutch <|> Id: 356 <|> Join date: 2013-04-19 <|> Balance: $15,491.37
+Name: Abshire LLC <|> Id: 464 <|> Join date: 2011-08-22 <|> Balance: $7,834.50
+Name: Schneider, Jones and Prohaska <|> Id: 225 <|> Join date: 2013-10-17 <|> Balance: $94,523.60
+Name: Tremblay, Flatley and Hand <|> Id: 70 <|> Join date: 2013-10-13 <|> Balance: $38,497.03
+Name: Herman Group <|> Id: 64 <|> Join date: 2011-12-08 <|> Balance: $58,064.82
+Name: Spinka and Sons <|> Id: 151 <|> Join date: 2011-09-26 <|> Balance: $63,527.08
+Name: Tromp, Lehner and Huels <|> Id: 507 <|> Join date: 2011-10-16 <|> Balance: $33,369.82
+Name: Rippin, Waelchi and Harvey <|> Id: 283 <|> Join date: 2012-10-10 <|> Balance: $46,991.62
+Name: Koch-Legros <|> Id: 658 <|> Join date: 2012-04-02 <|> Balance: $58,104.92
+Name: Howell Inc <|> Id: 525 <|> Join date: 2013-02-13 <|> Balance: $30,929.67
+Name: Legros-Koepp <|> Id: 401 <|> Join date: 2011-11-11 <|> Balance: $34,203.59
+Name: Marvin, Eichmann and Bechtelar <|> Id: 10 <|> Join date: 2012-12-10 <|> Balance: $3,072.16
+Name: Ankunding and Sons <|> Id: 402 <|> Join date: 2013-09-21 <|> Balance: $83,524.71
+Name: Greenholt and Sons <|> Id: 551 <|> Join date: 2011-01-06 <|> Balance: $4,637.13
+Name: Corwin Inc <|> Id: 243 <|> Join date: 2011-04-27 <|> Balance: $55,516.95
+Name: Streich Inc <|> Id: 345 <|> Join date: 2012-07-26 <|> Balance: $4,111.56
+Name: Bradtke-Torphy <|> Id: 76 <|> Join date: 2013-10-28 <|> Balance: $3,886.93
+Name: Mitchell Group <|> Id: 13 <|> Join date: 2013-02-08 <|> Balance: $89,109.58
+Name: Deckow LLC <|> Id: 323 <|> Join date: 2012-05-17 <|> Balance: $52,598.07
+Name: Smith-Rath <|> Id: 570 <|> Join date: 2013-01-17 <|> Balance: $72,219.30
+Name: Spencer, Bahringer and Gutkowski <|> Id: 621 <|> Join date: 2012-05-07 <|> Balance: $18,801.33
+Name: Jacobi, Ankunding and Schinner <|> Id: 385 <|> Join date: 2012-04-13 <|> Balance: $75,833.57
+Name: Kuhn-Swaniawski <|> Id: 651 <|> Join date: 2012-05-13 <|> Balance: $82,622.33
+Name: Hoppe, Corkery and Lowe <|> Id: 718 <|> Join date: 2012-06-22 <|> Balance: $90,299.24
+Name: Wolff, Doyle and Smith <|> Id: 100 <|> Join date: 2013-10-14 <|> Balance: $89,729.17
+Name: Gutkowski, Bayer and Borer <|> Id: 42 <|> Join date: 2013-04-09 <|> Balance: $31,212.31
+Name: Vandervort-Blanda <|> Id: 601 <|> Join date: 2013-11-27 <|> Balance: $12,946.60
+Name: Bashirian Inc <|> Id: 340 <|> Join date: 2012-05-08 <|> Balance: $59,777.38
+Name: Aufderhar, Parker and Zboncak <|> Id: 639 <|> Join date: 2011-03-12 <|> Balance: $79,066.71
+Name: Hayes-Renner <|> Id: 129 <|> Join date: 2012-05-06 <|> Balance: $59,391.37
+Name: Collins, Nienow and Berge <|> Id: 450 <|> Join date: 2012-01-27 <|> Balance: $71,912.35
+Name: Kunde, Gusikowski and Wintheiser <|> Id: 115 <|> Join date: 2012-10-01 <|> Balance: $89,185.76
+Name: Halvorson Inc <|> Id: 548 <|> Join date: 2013-02-22 <|> Balance: $91,312.16
+Name: Lynch Group <|> Id: 566 <|> Join date: 2012-06-13 <|> Balance: $52,528.98
+Name: O'Hara-Hartmann <|> Id: 480 <|> Join date: 2012-08-08 <|> Balance: $86,888.91
+Name: Schultz-Gottlieb <|> Id: 231 <|> Join date: 2012-01-04 <|> Balance: $51,848.10
+Name: Mohr-Halvorson <|> Id: 105 <|> Join date: 2012-09-10 <|> Balance: $4,442.74
+Name: Prohaska-Veum <|> Id: 407 <|> Join date: 2013-09-14 <|> Balance: $43,895.89
+Name: Olson and Sons <|> Id: 201 <|> Join date: 2013-09-14 <|> Balance: $30,234.62
+Name: Nicolas-Crona <|> Id: 69 <|> Join date: 2012-07-11 <|> Balance: $27,769.98
+Name: Lynch-Mann <|> Id: 190 <|> Join date: 2012-02-01 <|> Balance: $50,399.61
+Name: Runolfsson-Reinger <|> Id: 365 <|> Join date: 2011-02-01 <|> Balance: $87,260.63
+Name: Adams and Sons <|> Id: 391 <|> Join date: 2012-12-22 <|> Balance: $45,957.87
+Name: Bins and Sons <|> Id: 516 <|> Join date: 2012-07-10 <|> Balance: $44,199.24
+Name: Treutel-Rutherford <|> Id: 171 <|> Join date: 2011-07-14 <|> Balance: $97,534.06
+Name: Prosacco-Steuber <|> Id: 7 <|> Join date: 2012-04-26 <|> Balance: $89,027.35
+Name: Casper-Welch <|> Id: 609 <|> Join date: 2012-07-23 <|> Balance: $92,393.12
+Name: Leffler LLC <|> Id: 333 <|> Join date: 2012-05-15 <|> Balance: $61,813.21
+Name: Bogisich, VonRueden and Hand <|> Id: 559 <|> Join date: 2013-07-05 <|> Balance: $66,728.47
+Name: Block, Hoeger and VonRueden <|> Id: 659 <|> Join date: 2011-10-31 <|> Balance: $72,593.75
+Name: Emmerich-Schoen <|> Id: 215 <|> Join date: 2012-12-12 <|> Balance: $58,286.11
+Name: Armstrong LLC <|> Id: 487 <|> Join date: 2012-04-20 <|> Balance: $74,018.51
+Name: Pacocha-Stiedemann <|> Id: 707 <|> Join date: 2012-05-04 <|> Balance: $42,807.47
+Name: Schumm LLC <|> Id: 331 <|> Join date: 2012-09-19 <|> Balance: $38,897.24
+Name: Murazik and Sons <|> Id: 370 <|> Join date: 2011-11-11 <|> Balance: $51,539.31
+Name: Pagac Group <|> Id: 735 <|> Join date: 2012-04-17 <|> Balance: $86,121.91
+Name: Mosciski-McKenzie <|> Id: 58 <|> Join date: 2012-01-11 <|> Balance: $23,341.64
+Name: Konopelski LLC <|> Id: 691 <|> Join date: 2012-02-01 <|> Balance: $95,370.30
+Name: Predovic-Greenholt <|> Id: 529 <|> Join date: 2011-01-04 <|> Balance: $98,537.39
+Name: Beatty, Schaefer and Greenfelder <|> Id: 328 <|> Join date: 2012-04-29 <|> Balance: $43,474.63
+Name: Casper-Collier <|> Id: 378 <|> Join date: 2011-05-11 <|> Balance: $7,300.39
+Name: Crona, Hammes and Parker <|> Id: 575 <|> Join date: 2012-05-06 <|> Balance: $34,212.60
+Name: Rolfson, Kessler and Mann <|> Id: 21 <|> Join date: 2011-01-19 <|> Balance: $24,021.42
+Name: Hagenes, O'Hara and Rau <|> Id: 536 <|> Join date: 2012-09-17 <|> Balance: $62,901.06
+Name: Swaniawski-Kling <|> Id: 14 <|> Join date: 2012-05-16 <|> Balance: $78,466.99
+Name: Ortiz Inc <|> Id: 165 <|> Join date: 2013-08-15 <|> Balance: $31,117.69
+Name: Bradtke, Nikolaus and Bogisich <|> Id: 683 <|> Join date: 2013-02-04 <|> Balance: $65,989.32
+Name: Blick Inc <|> Id: 330 <|> Join date: 2011-03-30 <|> Balance: $79,185.76
+Name: Ankunding Inc <|> Id: 188 <|> Join date: 2011-07-24 <|> Balance: $94,733.33
+Name: Sanford LLC <|> Id: 448 <|> Join date: 2011-12-09 <|> Balance: $62,736.14
+Name: Larson Inc <|> Id: 139 <|> Join date: 2013-05-29 <|> Balance: $49,686.62
+Name: Mayert, Hoppe and Morissette <|> Id: 322 <|> Join date: 2012-04-22 <|> Balance: $72,459.03
+Name: Wilkinson, Metz and Halvorson <|> Id: 106 <|> Join date: 2012-11-08 <|> Balance: $26,489.44
+Name: Corkery, Towne and Altenwerth <|> Id: 489 <|> Join date: 2011-01-14 <|> Balance: $48,283.80
+Name: Fay-Parisian <|> Id: 369 <|> Join date: 2011-10-14 <|> Balance: $94,328.53
+Name: Osinski-Funk <|> Id: 257 <|> Join date: 2011-05-05 <|> Balance: $38,910.45
+Name: Hoeger and Sons <|> Id: 313 <|> Join date: 2013-02-16 <|> Balance: $37,652.64
+Name: Howell, Bode and McGlynn <|> Id: 8 <|> Join date: 2013-01-25 <|> Balance: $22,406.34
+Name: Bauch, Streich and Zboncak <|> Id: 82 <|> Join date: 2011-07-23 <|> Balance: $93,644.44
+Name: Durgan-Bogan <|> Id: 125 <|> Join date: 2011-07-06 <|> Balance: $33,716.30
+Name: Schmeler, Borer and Jones <|> Id: 606 <|> Join date: 2011-08-06 <|> Balance: $74,316.16
+Name: Harvey, Kris and Bashirian <|> Id: 451 <|> Join date: 2012-08-25 <|> Balance: $54,812.06
+Name: Koepp, Botsford and Russel <|> Id: 711 <|> Join date: 2011-12-06 <|> Balance: $96,350.98
+Name: Stoltenberg Inc <|> Id: 709 <|> Join date: 2012-03-15 <|> Balance: $80,119.79
+Name: Larkin-Mitchell <|> Id: 346 <|> Join date: 2013-09-19 <|> Balance: $57,389.63
+Name: Wolff LLC <|> Id: 239 <|> Join date: 2013-08-07 <|> Balance: $18,830.85
+Name: Herman-Roberts <|> Id: 134 <|> Join date: 2011-12-03 <|> Balance: $74,718.37
+Name: Hane, Wiegand and Ziemann <|> Id: 418 <|> Join date: 2012-04-29 <|> Balance: $35,783.50
+Name: Fahey-Feest <|> Id: 191 <|> Join date: 2013-07-08 <|> Balance: $27,307.43
+Name: Graham-VonRueden <|> Id: 543 <|> Join date: 2012-02-22 <|> Balance: $34,190.79
+Name: Metz Group <|> Id: 185 <|> Join date: 2013-01-26 <|> Balance: $28,195.43
+Name: Hamill and Sons <|> Id: 611 <|> Join date: 2011-06-23 <|> Balance: $91,200.95
+Name: Volkman and Sons <|> Id: 290 <|> Join date: 2013-02-18 <|> Balance: $86,248.43
+Name: Mante, Deckow and Sipes <|> Id: 230 <|> Join date: 2011-04-23 <|> Balance: $66,961.84
+Name: Blick Group <|> Id: 481 <|> Join date: 2012-11-28 <|> Balance: $71,207.03
+Name: Quigley, Wiegand and Oberbrunner <|> Id: 422 <|> Join date: 2011-02-28 <|> Balance: $58,062.35
+Name: Braun, Jerde and Larson <|> Id: 440 <|> Join date: 2012-08-07 <|> Balance: $39,729.27
+Name: Braun-Davis <|> Id: 660 <|> Join date: 2012-06-28 <|> Balance: $42,888.96
+Name: Rodriguez, Grady and Bernier <|> Id: 716 <|> Join date: 2012-12-03 <|> Balance: $83,325.47
+Name: Hammes-Lang <|> Id: 93 <|> Join date: 2012-01-28 <|> Balance: $51,433.07
+Name: Rodriguez-Miller <|> Id: 291 <|> Join date: 2012-03-24 <|> Balance: $56,384.67
+Name: Blick-Nicolas <|> Id: 573 <|> Join date: 2012-08-07 <|> Balance: $40,882.56
+Name: Hudson, Smitham and Aufderhar <|> Id: 24 <|> Join date: 2011-03-27 <|> Balance: $7,980.86
+Name: Beatty, Homenick and Reichert <|> Id: 567 <|> Join date: 2013-11-01 <|> Balance: $3,123.13
+Name: Oberbrunner-Schinner <|> Id: 245 <|> Join date: 2011-07-05 <|> Balance: $43,056.58
+Name: Shields, Gibson and McCullough <|> Id: 514 <|> Join date: 2011-07-25 <|> Balance: $16,969.50
+Name: Mohr-Ritchie <|> Id: 688 <|> Join date: 2011-08-02 <|> Balance: $3,952.94
+Name: Schaden-Nitzsche <|> Id: 20 <|> Join date: 2013-10-21 <|> Balance: $87,671.55
+Name: Gleichner-Wuckert <|> Id: 158 <|> Join date: 2013-04-21 <|> Balance: $39,999.54
+Name: Fadel Group <|> Id: 117 <|> Join date: 2012-02-25 <|> Balance: $11,752.88
+Name: Hammes-Eichmann <|> Id: 296 <|> Join date: 2012-11-19 <|> Balance: $26,401.05
+Name: Howell-Roob <|> Id: 482 <|> Join date: 2012-08-08 <|> Balance: $39,272.34
+Name: Reichert Group <|> Id: 266 <|> Join date: 2013-07-21 <|> Balance: $31,534.91
+Name: Cassin, Ledner and King <|> Id: 572 <|> Join date: 2013-10-18 <|> Balance: $22,413.25
+Name: Glover Inc <|> Id: 92 <|> Join date: 2012-10-02 <|> Balance: $51,081.35
+Name: Boyer LLC <|> Id: 46 <|> Join date: 2012-01-02 <|> Balance: $14,750.57
+Name: Buckridge and Sons <|> Id: 674 <|> Join date: 2011-03-18 <|> Balance: $15,471.72
+Name: Sauer Group <|> Id: 540 <|> Join date: 2012-09-01 <|> Balance: $71,808.25
+Name: Romaguera-Rath <|> Id: 183 <|> Join date: 2011-05-03 <|> Balance: $57,466.08
+Name: Simonis, Gleason and Smitham <|> Id: 664 <|> Join date: 2011-04-12 <|> Balance: $53,537.74
+Name: Upton, Orn and Brekke <|> Id: 648 <|> Join date: 2011-06-02 <|> Balance: $81,324.23
+Name: Wintheiser-Kassulke <|> Id: 638 <|> Join date: 2013-04-10 <|> Balance: $91,409.59
+Name: Quitzon LLC <|> Id: 509 <|> Join date: 2012-11-10 <|> Balance: $75,728.30
+Name: Fahey-Heidenreich <|> Id: 207 <|> Join date: 2012-05-05 <|> Balance: $18,792.09
+Name: Wuckert, Conroy and Hettinger <|> Id: 78 <|> Join date: 2011-08-24 <|> Balance: $69,274.60
+Name: Cole, Gottlieb and Predovic <|> Id: 368 <|> Join date: 2011-07-18 <|> Balance: $56,966.45
+Name: Davis, Swift and Braun <|> Id: 431 <|> Join date: 2012-02-09 <|> Balance: $15,664.21
+Name: Jacobson, Rath and Fisher <|> Id: 612 <|> Join date: 2011-06-06 <|> Balance: $80,275.19
+Name: Balistreri-Towne <|> Id: 135 <|> Join date: 2013-04-13 <|> Balance: $70,735.40
+Name: Murphy, Halvorson and Weissnat <|> Id: 97 <|> Join date: 2013-02-04 <|> Balance: $98,195.52
+Name: Pfannerstill-Witting <|> Id: 364 <|> Join date: 2013-01-31 <|> Balance: $75,690.18
+Name: Wolf-King <|> Id: 396 <|> Join date: 2013-09-06 <|> Balance: $68,891.10
+Name: Hoppe-Barton <|> Id: 273 <|> Join date: 2011-04-22 <|> Balance: $20,781.63
+Name: Erdman-Hegmann <|> Id: 280 <|> Join date: 2012-01-03 <|> Balance: $58,457.10
+Name: King, Glover and Mills <|> Id: 148 <|> Join date: 2012-09-13 <|> Balance: $83,259.98
+Name: Hansen, Abshire and Bergstrom <|> Id: 555 <|> Join date: 2013-09-12 <|> Balance: $81,750.09
+Name: Bergnaum and Sons <|> Id: 6 <|> Join date: 2012-06-27 <|> Balance: $51,612.21
+Name: Stark LLC <|> Id: 699 <|> Join date: 2011-09-23 <|> Balance: $10,595.43
+Name: Larson, Kiehn and Mante <|> Id: 565 <|> Join date: 2012-03-30 <|> Balance: $95,045.72
+Name: Lebsack, Streich and Gislason <|> Id: 166 <|> Join date: 2013-05-15 <|> Balance: $54,182.23
+Name: Fay-Hegmann <|> Id: 537 <|> Join date: 2012-10-01 <|> Balance: $28,445.46
+Name: Becker Group <|> Id: 676 <|> Join date: 2013-05-06 <|> Balance: $79,482.07
+Name: Lemke-Upton <|> Id: 393 <|> Join date: 2011-08-26 <|> Balance: $20,822.92
+Name: Kautzer and Sons <|> Id: 526 <|> Join date: 2012-12-28 <|> Balance: $21,449.29
+Name: Senger-Bogan <|> Id: 116 <|> Join date: 2013-06-06 <|> Balance: $59,167.42
+Name: Wilderman-Schultz <|> Id: 205 <|> Join date: 2013-09-08 <|> Balance: $36,683.64
+Name: Schuster, Auer and Parker <|> Id: 240 <|> Join date: 2011-08-28 <|> Balance: $4,253.81
+Name: Conroy Group <|> Id: 539 <|> Join date: 2011-08-09 <|> Balance: $42,079.75
+Name: Willms, Rath and O'Connell <|> Id: 389 <|> Join date: 2011-08-19 <|> Balance: $13,518.93
+Name: Stiedemann and Sons <|> Id: 414 <|> Join date: 2013-04-03 <|> Balance: $82,096.54
+Name: Champlin and Sons <|> Id: 579 <|> Join date: 2013-01-09 <|> Balance: $20,154.85
+Name: Keebler, Hermiston and Blanda <|> Id: 734 <|> Join date: 2012-09-29 <|> Balance: $32,613.35
+Name: Lesch and Sons <|> Id: 80 <|> Join date: 2011-07-11 <|> Balance: $99,001.82
+Name: Waelchi, Stamm and Rosenbaum <|> Id: 363 <|> Join date: 2012-03-23 <|> Balance: $88,780.69
+Name: Kassulke-Jakubowski <|> Id: 544 <|> Join date: 2013-10-29 <|> Balance: $25,964.49
+Name: Boyle-Pfeffer <|> Id: 640 <|> Join date: 2013-05-15 <|> Balance: $23,581.34
+Name: Hammes-Hilpert <|> Id: 463 <|> Join date: 2011-06-07 <|> Balance: $92,885.07
+Name: Willms and Sons <|> Id: 442 <|> Join date: 2013-10-18 <|> Balance: $84,150.31
+Name: Spencer, Windler and Lang <|> Id: 121 <|> Join date: 2011-01-27 <|> Balance: $23,516.24
+Name: Ward LLC <|> Id: 617 <|> Join date: 2011-02-27 <|> Balance: $85,509.13
+Name: Leuschke-Grimes <|> Id: 562 <|> Join date: 2012-12-06 <|> Balance: $53,672.44
+Name: Farrell, Wehner and McDermott <|> Id: 184 <|> Join date: 2012-03-14 <|> Balance: $31,194.35
+Name: Lockman and Sons <|> Id: 604 <|> Join date: 2013-10-27 <|> Balance: $82,956.72
+Name: Thiel-Jacobson <|> Id: 11 <|> Join date: 2013-06-22 <|> Balance: $36,401.77
+Name: Ullrich and Sons <|> Id: 206 <|> Join date: 2012-02-22 <|> Balance: $86,055.46
+Name: Lemke-Douglas <|> Id: 352 <|> Join date: 2012-05-29 <|> Balance: $27,061.08
+Name: Quitzon, Waters and Goodwin <|> Id: 591 <|> Join date: 2011-02-11 <|> Balance: $17,871.77
+Name: Monahan, Spinka and Denesik <|> Id: 554 <|> Join date: 2011-10-12 <|> Balance: $16,426.95
+Name: Dickens-Cormier <|> Id: 146 <|> Join date: 2013-12-28 <|> Balance: $33,544.83
+Name: Rodriguez and Sons <|> Id: 438 <|> Join date: 2012-09-25 <|> Balance: $39,145.77
+Name: O'Hara-Miller <|> Id: 17 <|> Join date: 2011-05-09 <|> Balance: $23,358.50
+Name: Orn and Sons <|> Id: 339 <|> Join date: 2011-06-30 <|> Balance: $50,206.78
+Name: Mayer Group <|> Id: 424 <|> Join date: 2013-11-07 <|> Balance: $64,707.61
+Name: Kreiger, Kassulke and Harris <|> Id: 55 <|> Join date: 2011-07-05 <|> Balance: $53,440.87
+Name: Schneider-Crooks <|> Id: 161 <|> Join date: 2011-04-07 <|> Balance: $9,865.42
+Name: Murazik, Mertz and McGlynn <|> Id: 246 <|> Join date: 2012-10-21 <|> Balance: $35,966.24
+Name: Hegmann, Rodriguez and Collier <|> Id: 474 <|> Join date: 2011-03-06 <|> Balance: $57,189.95
+Name: Runolfsdottir-Simonis <|> Id: 690 <|> Join date: 2012-11-21 <|> Balance: $96,535.31
+Name: Bradtke-Harber <|> Id: 169 <|> Join date: 2011-03-26 <|> Balance: $23,033.24
+Name: Konopelski, Muller and Nitzsche <|> Id: 702 <|> Join date: 2011-11-20 <|> Balance: $70,068.48
+Name: Predovic-Batz <|> Id: 546 <|> Join date: 2012-04-20 <|> Balance: $54,954.87
+Name: Jerde, Luettgen and Boyer <|> Id: 238 <|> Join date: 2012-02-08 <|> Balance: $89,069.23
+Name: Ziemann, Skiles and Willms <|> Id: 253 <|> Join date: 2013-02-09 <|> Balance: $40,604.63
+Name: Conn, Baumbach and Wilderman <|> Id: 288 <|> Join date: 2012-03-20 <|> Balance: $14,805.70
+Name: Hintz, Stoltenberg and Kuhlman <|> Id: 728 <|> Join date: 2013-08-09 <|> Balance: $12,313.35
+Name: Jenkins, Ferry and Bernier <|> Id: 607 <|> Join date: 2011-01-27 <|> Balance: $53,650.23
+Name: Brekke-Gorczany <|> Id: 38 <|> Join date: 2012-08-27 <|> Balance: $2,998.68
+Name: Turcotte Group <|> Id: 586 <|> Join date: 2012-08-17 <|> Balance: $94,845.48
+Name: Hagenes-Russel <|> Id: 665 <|> Join date: 2012-07-21 <|> Balance: $72,861.21
+Name: Monahan, Tillman and Friesen <|> Id: 381 <|> Join date: 2013-02-12 <|> Balance: $32,348.09
+Name: McKenzie LLC <|> Id: 433 <|> Join date: 2013-05-21 <|> Balance: $33,633.29
+Name: Breitenberg, Hahn and Swift <|> Id: 661 <|> Join date: 2012-03-15 <|> Balance: $70,931.00
+Name: Kohler-Zulauf <|> Id: 377 <|> Join date: 2011-01-11 <|> Balance: $18,609.36
+Name: Padberg, Johnston and Larkin <|> Id: 427 <|> Join date: 2012-09-06 <|> Balance: $37,328.80
+Name: Schaefer-Reichel <|> Id: 376 <|> Join date: 2012-08-03 <|> Balance: $34,952.20
+Name: O'Kon-Huel <|> Id: 2 <|> Join date: 2011-01-10 <|> Balance: $44,205.23
+Name: Spinka, Ortiz and Homenick <|> Id: 170 <|> Join date: 2013-09-29 <|> Balance: $72,049.18
+Name: Oga, Labadie and O'Connell <|> Id: 671 <|> Join date: 2012-03-06 <|> Balance: $23,188.28
+Name: Hermann-Beatty <|> Id: 518 <|> Join date: 2013-10-30 <|> Balance: $77,567.50
+Name: Stiedemann LLC <|> Id: 725 <|> Join date: 2012-12-07 <|> Balance: $75,106.72
+Name: Hessel Group <|> Id: 632 <|> Join date: 2012-07-28 <|> Balance: $57,361.27
+Name: Marquardt-Jewess <|> Id: 23 <|> Join date: 2012-06-09 <|> Balance: $62,636.44
+Name: Bernier, Leuschke and Anderson <|> Id: 252 <|> Join date: 2012-04-23 <|> Balance: $98,007.45
+Name: Kub-Kovacek <|> Id: 50 <|> Join date: 2013-06-14 <|> Balance: $67,163.46
+Name: Runolfsson, Lakin and Bosco <|> Id: 317 <|> Join date: 2012-10-08 <|> Balance: $67,632.81
+Name: Harvey Group <|> Id: 284 <|> Join date: 2012-03-25 <|> Balance: $57,745.81
+Name: Ratke-Predovic <|> Id: 66 <|> Join date: 2011-10-16 <|> Balance: $63,853.79
+Name: Ziemann Group <|> Id: 301 <|> Join date: 2012-05-17 <|> Balance: $86,310.17
+Name: Stroman LLC <|> Id: 33 <|> Join date: 2011-09-26 <|> Balance: $93,954.81
+Name: Bosco-Orn <|> Id: 22 <|> Join date: 2012-09-06 <|> Balance: $40,462.82
+Name: Ryan, Jacobs and Grant <|> Id: 194 <|> Join date: 2011-04-10 <|> Balance: $63,188.68
+Name: Wilkinson, O'Connell and Hauck <|> Id: 627 <|> Join date: 2011-04-02 <|> Balance: $74,745.82
+Name: Weissnat Inc <|> Id: 355 <|> Join date: 2011-01-31 <|> Balance: $57,516.42
+Name: Howe-Schinner <|> Id: 150 <|> Join date: 2011-02-27 <|> Balance: $14,996.14
+Name: Predovic, Marks and Stroman <|> Id: 275 <|> Join date: 2011-04-30 <|> Balance: $31,157.30
+Name: Abshire Group <|> Id: 310 <|> Join date: 2011-10-15 <|> Balance: $25,553.76
+Name: Ritchie Inc <|> Id: 136 <|> Join date: 2011-08-05 <|> Balance: $81,674.55
+Name: Kovacek LLC <|> Id: 85 <|> Join date: 2011-11-05 <|> Balance: $49,371.14
+Name: Williamson LLC <|> Id: 120 <|> Join date: 2013-08-30 <|> Balance: $54,223.39
+Name: Denesik-Gislason <|> Id: 88 <|> Join date: 2012-10-17 <|> Balance: $96,780.50
+Name: Stark-Spencer <|> Id: 387 <|> Join date: 2012-05-29 <|> Balance: $94,943.25
+Name: Hermiston, White and Ernser <|> Id: 256 <|> Join date: 2012-02-15 <|> Balance: $99,910.57
+Name: Schmeler, Berge and Hermann <|> Id: 305 <|> Join date: 2011-06-30 <|> Balance: $80,271.13
+Name: Barrows-Pfannerstill <|> Id: 705 <|> Join date: 2013-12-15 <|> Balance: $62,972.53
+Name: Blanda-Erdman <|> Id: 524 <|> Join date: 2013-08-28 <|> Balance: $95,283.66
+Name: Rath, Borer and Funk <|> Id: 59 <|> Join date: 2013-01-29 <|> Balance: $80,349.31
+Name: McDermott, Fay and Glover <|> Id: 140 <|> Join date: 2011-11-05 <|> Balance: $39,029.13
+Name: Ernser, Gottlieb and Erdman <|> Id: 701 <|> Join date: 2011-10-28 <|> Balance: $27,225.22
+Name: Gibson, Russel and Barton <|> Id: 388 <|> Join date: 2012-05-01 <|> Balance: $69,441.69
+Name: Krajcik-Altenwerth <|> Id: 486 <|> Join date: 2011-02-21 <|> Balance: $81,963.36
+Name: Homenick-Russel <|> Id: 228 <|> Join date: 2013-10-30 <|> Balance: $9,048.79
+Name: Conn Inc <|> Id: 79 <|> Join date: 2013-03-09 <|> Balance: $84,984.33
+Name: Graham Inc <|> Id: 57 <|> Join date: 2012-01-22 <|> Balance: $29,950.04
+Name: O'Reilly, Windler and Wolff <|> Id: 102 <|> Join date: 2013-08-21 <|> Balance: $65,355.51
+Name: Rempel, Shields and Bins <|> Id: 677 <|> Join date: 2012-01-26 <|> Balance: $61,275.41
+Name: Bernhard, Crist and Cole <|> Id: 410 <|> Join date: 2013-01-25 <|> Balance: $96,060.48
+Name: Kris LLC <|> Id: 72 <|> Join date: 2011-08-13 <|> Balance: $87,186.16
+Name: Glover, Mueller and Koss <|> Id: 81 <|> Join date: 2012-07-24 <|> Balance: $8,776.89
+Name: Lubowitz-Feeney <|> Id: 68 <|> Join date: 2012-03-20 <|> Balance: $87,305.85
+Name: Ruecker, Bradtke and Funk <|> Id: 721 <|> Join date: 2012-09-27 <|> Balance: $6,585.05
+Name: Osinski-Upton <|> Id: 124 <|> Join date: 2013-08-26 <|> Balance: $16,739.55
+Name: Gaylord, Von and Christiansen <|> Id: 144 <|> Join date: 2012-10-29 <|> Balance: $9,332.64
+Name: Mayer-Weissnat <|> Id: 27 <|> Join date: 2011-05-03 <|> Balance: $87,179.95
+Name: Davis Inc <|> Id: 164 <|> Join date: 2012-08-16 <|> Balance: $42,208.78
+Name: Witting Group <|> Id: 423 <|> Join date: 2013-09-04 <|> Balance: $79,186.98
+Name: Ortiz, Prohaska and Harris <|> Id: 53 <|> Join date: 2012-10-16 <|> Balance: $10,046.74
+Name: Schmidt, Hyatt and Wilderman <|> Id: 403 <|> Join date: 2013-05-02 <|> Balance: $86,025.86
+Name: Schmidt, Fisher and Frami <|> Id: 210 <|> Join date: 2012-07-25 <|> Balance: $26,873.47
+Name: Quigley Inc <|> Id: 175 <|> Join date: 2012-08-28 <|> Balance: $88,447.52
+Name: Mraz-Goodwin <|> Id: 347 <|> Join date: 2013-03-27 <|> Balance: $66,923.18
+Name: Paucek-Mohr <|> Id: 174 <|> Join date: 2012-03-01 <|> Balance: $92,951.08
+Name: Kuhlman-Cronin <|> Id: 272 <|> Join date: 2011-05-18 <|> Balance: $31,493.07
+Name: Kessler, Mosciski and Hartmann <|> Id: 598 <|> Join date: 2011-01-16 <|> Balance: $49,304.60
+Name: Kuvalis LLC <|> Id: 581 <|> Join date: 2012-03-16 <|> Balance: $78,833.54
+Name: Ebert-Lang <|> Id: 200 <|> Join date: 2011-12-06 <|> Balance: $36,384.70
+Name: Reichert, Hoeger and Rath <|> Id: 547 <|> Join date: 2011-10-09 <|> Balance: $92,626.90
+Name: Feeney, Hodkiewicz and Kutch <|> Id: 485 <|> Join date: 2013-03-06 <|> Balance: $20,572.59
+Name: McLaughlin, Gislason and Emmerich <|> Id: 430 <|> Join date: 2012-11-20 <|> Balance: $59,817.35
+Name: Kassulke Group <|> Id: 490 <|> Join date: 2011-06-25 <|> Balance: $55,309.47
+Name: McKenzie-Kuvalis <|> Id: 397 <|> Join date: 2013-10-13 <|> Balance: $70,213.64
+Name: VonRueden-Stamm <|> Id: 261 <|> Join date: 2012-02-22 <|> Balance: $51,789.17
+Name: Christiansen and Sons <|> Id: 634 <|> Join date: 2012-05-09 <|> Balance: $77,439.68
+Name: Mayert-Hirthe <|> Id: 694 <|> Join date: 2012-08-31 <|> Balance: $16,846.25
+Name: Schuppe-Walter <|> Id: 362 <|> Join date: 2013-07-29 <|> Balance: $89,516.29
+Name: Keeling Inc <|> Id: 436 <|> Join date: 2011-10-15 <|> Balance: $47,125.37
+Name: Rice Inc <|> Id: 508 <|> Join date: 2012-07-18 <|> Balance: $17,504.87
+Name: Baumbach-Johns <|> Id: 477 <|> Join date: 2012-12-21 <|> Balance: $72,816.28
+Name: Hickle-Veum <|> Id: 465 <|> Join date: 2011-06-02 <|> Balance: $65,597.26
+Name: Block-Donnelly <|> Id: 494 <|> Join date: 2012-10-17 <|> Balance: $36,399.11
+Name: Bergstrom, Hahn and Heidenreich <|> Id: 366 <|> Join date: 2011-11-30 <|> Balance: $89,345.36
+Name: Jacobs-Cartwright <|> Id: 437 <|> Join date: 2012-03-05 <|> Balance: $49,304.37
+Name: McGlynn-Beier <|> Id: 700 <|> Join date: 2013-05-29 <|> Balance: $28,847.44
+Name: Adams-Cormier <|> Id: 608 <|> Join date: 2013-10-22 <|> Balance: $94,033.23
+Name: Watsica, Prosacco and Jaskolski <|> Id: 348 <|> Join date: 2011-01-13 <|> Balance: $77,650.83
+Name: O'Connell Group <|> Id: 52 <|> Join date: 2012-05-10 <|> Balance: $4,966.32
+Name: Keebler and Sons <|> Id: 497 <|> Join date: 2012-05-24 <|> Balance: $3,884.50
+Name: Mayer-Skiles <|> Id: 303 <|> Join date: 2013-02-15 <|> Balance: $67,845.51
+Name: Kautzer-Donnelly <|> Id: 320 <|> Join date: 2013-12-28 <|> Balance: $27,536.51
+Name: Harris, Haag and Grady <|> Id: 456 <|> Join date: 2011-06-23 <|> Balance: $38,891.51
+Name: Swift-Schiller <|> Id: 16 <|> Join date: 2012-03-08 <|> Balance: $31,469.09
+Name: Reichert-Baumbach <|> Id: 279 <|> Join date: 2011-08-29 <|> Balance: $31,713.13
+Name: Prosacco Inc <|> Id: 242 <|> Join date: 2012-03-09 <|> Balance: $46,551.55
+Name: Heller-Feeney <|> Id: 198 <|> Join date: 2013-02-16 <|> Balance: $26,692.31
+Name: Luettgen, Schumm and Legros <|> Id: 319 <|> Join date: 2011-03-09 <|> Balance: $94,241.68
+Name: Schaden-Stroman <|> Id: 623 <|> Join date: 2013-01-06 <|> Balance: $33,277.18
+Name: Pfannerstill and Sons <|> Id: 298 <|> Join date: 2011-10-05 <|> Balance: $64,987.83
+Name: Deckow-Cartwright <|> Id: 645 <|> Join date: 2012-10-19 <|> Balance: $65,363.42
+Name: Cormier LLC <|> Id: 622 <|> Join date: 2011-07-04 <|> Balance: $93,510.70
+Name: Collins-Gislason <|> Id: 232 <|> Join date: 2013-10-21 <|> Balance: $62,646.55
+Name: Heaney Group <|> Id: 35 <|> Join date: 2011-06-22 <|> Balance: $93,456.98
+Name: Homenick Inc <|> Id: 224 <|> Join date: 2011-04-18 <|> Balance: $99,492.04
+Name: O'Kon, Kautzer and Bosco <|> Id: 155 <|> Join date: 2011-10-12 <|> Balance: $50,011.76
+Name: Ryan-Weissnat <|> Id: 722 <|> Join date: 2011-12-27 <|> Balance: $15,822.38
+Name: Sipes, Rohan and Bogisich <|> Id: 655 <|> Join date: 2012-01-10 <|> Balance: $75,936.85
+Name: Smitham-Hyatt <|> Id: 400 <|> Join date: 2011-04-09 <|> Balance: $8,351.84
+Name: Ledner, Huel and Thiel <|> Id: 493 <|> Join date: 2011-11-15 <|> Balance: $23,090.45
+Name: White, Heidenreich and Rowe <|> Id: 295 <|> Join date: 2013-07-22 <|> Balance: $94,813.73
+Name: Parker-Prosacco <|> Id: 91 <|> Join date: 2011-06-18 <|> Balance: $61,015.08
+Name: Johns, Shanahan and Weimann <|> Id: 89 <|> Join date: 2012-01-18 <|> Balance: $88,791.62
+Name: Lesch, McKenzie and Altenwerth <|> Id: 663 <|> Join date: 2012-06-06 <|> Balance: $82,815.04
+Name: Hettinger and Sons <|> Id: 216 <|> Join date: 2013-08-21 <|> Balance: $98,528.94
+Name: Doyle and Sons <|> Id: 37 <|> Join date: 2013-10-13 <|> Balance: $27,506.83
+Name: Grady-Beer <|> Id: 568 <|> Join date: 2011-04-17 <|> Balance: $66,104.78
+Name: Shields-Stamm <|> Id: 714 <|> Join date: 2013-05-10 <|> Balance: $48,334.87
+Name: Oberbrunner LLC <|> Id: 557 <|> Join date: 2011-11-22 <|> Balance: $84,121.11
+Name: Schamberger LLC <|> Id: 412 <|> Join date: 2013-05-04 <|> Balance: $16,264.97
+Name: Schmitt, Jewess and Okuneva <|> Id: 351 <|> Join date: 2011-09-01 <|> Balance: $44,776.69
+Name: Hilll-Kemmer <|> Id: 510 <|> Join date: 2013-12-03 <|> Balance: $16,220.86
+Name: Yundt, Yundt and Rosenbaum <|> Id: 359 <|> Join date: 2012-02-02 <|> Balance: $37,838.60
+Name: Wunsch-Kohler <|> Id: 732 <|> Join date: 2011-11-05 <|> Balance: $55,122.68
+Name: Lynch, Reinger and Yundt <|> Id: 724 <|> Join date: 2011-04-14 <|> Balance: $82,844.97

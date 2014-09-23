@@ -1,10 +1,19 @@
 package com.interview.algorithm.sort;
 
+import java.util.Arrays;
+
 public class SortUtils {
     public static void swap(int[] data, int i, int j) {
     	int temp = data[i];
     	data[i] = data[j];
     	data[j] = temp;
+    }
+    
+    
+    public static void main(String[] args) {
+    	int[] array = {5,2,4,3,1};
+    	System.out.println(SortUtils.partition(array, 0, array.length-1, 0));
+    	System.out.println(Arrays.toString(array));
     }
     
     
